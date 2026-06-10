@@ -1,0 +1,1071 @@
+{
+ "rev": 1,
+ "version": "1.0 (base)",
+ "generato": "2026-06-07",
+ "KB_FASI": {
+  "Demolizioni e rimozioni": [
+   "Demolizione e rimozione abbassamento soffitto esistente",
+   "Demolizione/scrostamento strutture in laterizio o cls/intonaci",
+   "Demolizione manufatti in laterizio/legno/metallo",
+   "Demolizione pareti divisorie interne",
+   "Rimozione controsoffittature, intonaci e rivestimenti interni",
+   "Rimozione pavimenti interni e relativo sottofondo",
+   "Rimozione serramenti esterni",
+   "Rimozione intonaci e rivestimenti esterni",
+   "Rimozione manto di copertura in tegole",
+   "Rimozione impianti esistenti",
+   "Rimozione scossaline, canali di gronda, pluviali",
+   "Carico, trasporto e smaltimento materiali di risulta",
+   "Rimozione/taglio strutture in cls e c.a. con mezzi meccanici",
+   "Demolizione e smaltimento copertura esistente",
+   "Rimozione e smaltimento amianto ⚠"
+  ],
+  "Strutture e murature": [
+   "Realizzazione divisori interni in cartongesso o muratura",
+   "Realizzazione strutture in laterizio, cls/c.a. e cartongesso",
+   "Consolidamento solai esistenti",
+   "Realizzazione murature per camini, parapetti, ecc.",
+   "Realizzazione tamponature esterne",
+   "Posa ferri di armatura e getto in calcestruzzo",
+   "Realizzazione tracce/aperture nelle murature",
+   "Esecuzione opere in laterizio",
+   "Realizzazione opere in cls/c.a. con casserature"
+  ],
+  "Coperture e facciate": [
+   "Rifacimento del manto di copertura",
+   "Montaggio ponteggi/opere provvisionali",
+   "Realizzazione orditura tetto in legno e assito",
+   "Impermeabilizzazione di coperture",
+   "Pannelli isolanti su superfici verticali (cappotto)",
+   "Intonaci esterni a macchina",
+   "Posa di serramenti esterni",
+   "Opere da lattoniere",
+   "Tinteggiatura facciate esterne e verniciatura",
+   "Nuovo manto di copertura con linea vita",
+   "Isolamento acustico e termico – cappotto esterno"
+  ],
+  "Controsoffitti e finiture": [
+   "Controsoffitto in quadrotti di fibra minerale e velette",
+   "Controsoffitti in cartongesso/pannelli",
+   "Risanamento e rifacimento intonaci",
+   "Finiture interne (pavimenti, rivestimenti, rasature, tinteggiature)",
+   "Posa di pavimenti per interni",
+   "Posa di rivestimenti interni",
+   "Tinteggiatura di superfici interne",
+   "Sostituzione serramenti interni ed esterni",
+   "Intonaci interni (rustico/stabilitura)",
+   "Sottofondi e massetti per pavimenti"
+  ],
+  "Impianti": [
+   "Assistenze all'impianto idraulico",
+   "Assistenze all'impianto elettrico",
+   "Realizzazione nuovi impianti (elettrico, meccanico, idraulico)",
+   "Assistenze murarie impianti (tracce, forometrie)",
+   "Impianto solare termico",
+   "Impianto termico, idrico-sanitario e del gas"
+  ],
+  "Opere esterne e scavi": [
+   "Realizzazione recinzione e cancellate",
+   "Scavo di sbancamento/a sezione ristretta",
+   "Realizzazione vespaio aerato",
+   "Posa condutture impianti a rete e pozzetti",
+   "Posa pavimenti per esterni",
+   "Finitura superfici esterne",
+   "Messa a dimora piante e tappeto erboso",
+   "Scavi con mezzo meccanico per fondazioni/impianti",
+   "Impermeabilizzazione pareti controterra",
+   "Rinterro degli scavi",
+   "Nuova recinzione in muratura e grigliato metallico",
+   "Impianti esterni (condutture idriche e fognarie)"
+  ],
+  "Strutture speciali": [
+   "Loculi funerari/opere cimiteriali",
+   "Carpenteria e getto struttura in cemento armato",
+   "Posa rivestimenti in pietra naturale",
+   "Struttura in legno lamellare e assito",
+   "Smaltimento amianto ⚠ procedura speciale",
+   "Montaggio/smontaggio ponteggio metallico fisso ⚠ PIMUS"
+  ]
+ },
+ "KB_ATTREZZATURE": [
+  {
+   "label": "Quadro elettrico di cantiere",
+   "sempre": false
+  },
+  {
+   "label": "Ponteggio metallico fisso",
+   "sempre": false
+  },
+  {
+   "label": "Autocarro (Ford Transit cassone aperto 3,5 t)",
+   "sempre": true
+  },
+  {
+   "label": "Attrezzi manuali",
+   "sempre": true
+  },
+  {
+   "label": "Trabattello (ponte su ruote)",
+   "sempre": false
+  },
+  {
+   "label": "Ponte su cavalletti",
+   "sempre": false
+  },
+  {
+   "label": "Scala doppia",
+   "sempre": true
+  },
+  {
+   "label": "Scala semplice",
+   "sempre": true
+  },
+  {
+   "label": "Smerigliatrice angolare (flessibile)",
+   "sempre": false
+  },
+  {
+   "label": "Argano di sollevamento elettrico",
+   "sempre": false
+  },
+  {
+   "label": "Argano a bandiera",
+   "sempre": false
+  },
+  {
+   "label": "Montacarichi da cantiere",
+   "sempre": false
+  },
+  {
+   "label": "Martello demolitore elettrico",
+   "sempre": false
+  },
+  {
+   "label": "Martello demolitore pneumatico",
+   "sempre": false
+  },
+  {
+   "label": "Carriola",
+   "sempre": false
+  },
+  {
+   "label": "Impastatrice",
+   "sempre": false
+  },
+  {
+   "label": "Betoniera a bicchiere",
+   "sempre": false
+  },
+  {
+   "label": "Intonacatrice",
+   "sempre": false
+  },
+  {
+   "label": "Sega circolare",
+   "sempre": false
+  },
+  {
+   "label": "Scanalatrice per muri ed intonaci",
+   "sempre": false
+  },
+  {
+   "label": "Tagliamuri (sega a disco)",
+   "sempre": false
+  },
+  {
+   "label": "Taglierina elettrica",
+   "sempre": false
+  },
+  {
+   "label": "Trapano elettrico",
+   "sempre": false
+  },
+  {
+   "label": "Battipiastrelle elettrico",
+   "sempre": false
+  },
+  {
+   "label": "Vibratore elettrico per calcestruzzo",
+   "sempre": false
+  },
+  {
+   "label": "Compressore con motore endotermico",
+   "sempre": false
+  },
+  {
+   "label": "Centralina idraulica a motore",
+   "sempre": false
+  },
+  {
+   "label": "Andatoie e passerelle",
+   "sempre": false
+  },
+  {
+   "label": "Cannello a gas",
+   "sempre": false
+  },
+  {
+   "label": "Cannello per saldatura ossiacetilenica",
+   "sempre": false
+  },
+  {
+   "label": "Saldatrice elettrica",
+   "sempre": false
+  },
+  {
+   "label": "Motosega a motore",
+   "sempre": false
+  },
+  {
+   "label": "Escavatore meccanico",
+   "sempre": false
+  },
+  {
+   "label": "Escavatore mini",
+   "sempre": false
+  },
+  {
+   "label": "Escavatore con martello demolitore",
+   "sempre": false
+  },
+  {
+   "label": "Escavatore con pinza idraulica",
+   "sempre": false
+  },
+  {
+   "label": "Pala meccanica/minipala",
+   "sempre": false
+  },
+  {
+   "label": "Autobetoniera",
+   "sempre": false
+  },
+  {
+   "label": "Autogrù",
+   "sempre": false
+  },
+  {
+   "label": "Autopompa per cls",
+   "sempre": false
+  },
+  {
+   "label": "Gru a torre",
+   "sempre": false
+  }
+ ],
+ "KB_SCHEDE": {
+  "Demolizioni e rimozioni": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto durante le operazioni in quota",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiali dall'alto e a livello",
+     "g": 2
+    },
+    {
+     "t": "Rinvenimento di sostanze pericolose per la salute (amianto, FAV)",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di polveri e fibre",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi e posture incongrue",
+     "g": 1
+    },
+    {
+     "t": "Urti, tagli e abrasioni da attrezzature o materiali",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Verificare la stabilità degli elementi da demolire prima di procedere; eseguire la demolizione in modo ordinato e progressivo, dall'alto verso il basso.",
+    "Per le lavorazioni in quota impiegare trabattello conforme (UNI EN 1004) o ponte su cavalletti; le scale solo per interventi sporadici e brevi con assistente a terra. Scendere sempre dal trabattello prima di spostarlo e non sovraccaricare la piattaforma.",
+    "Predisporre barriere e delimitazioni delle aree di lavoro per impedire l'accesso non autorizzato; elmetto obbligatorio per chiunque transiti nelle vicinanze.",
+    "I materiali di risulta non devono essere gettati dall'alto, ma calati o convogliati a terra; movimentazione a due addetti.",
+    "Garantire una ventilazione adeguata degli ambienti per limitare l'accumulo di polveri; bagnare le superfici ove possibile per abbattere la polvere.",
+    "In caso di rinvenimento di sostanze sospette (amianto, FAV), interrompere immediatamente le lavorazioni e segnalare al preposto e al CSE; non rimuovere autonomamente.",
+    "Utilizzare otoprotettori idonei (SNR adeguato) durante le fasi rumorose."
+   ],
+   "emergenza": [
+    "Mantenere sempre libere e segnalate le vie di fuga.",
+    "Verificare la presenza, in prossimità dell'area operativa, di estintore e kit di primo soccorso."
+   ],
+   "dpi": "Casco (con sottogola nelle operazioni in quota); calzature antinfortunistiche; guanti da lavoro resistenti; occhiali protettivi; mascherina antipolvere (almeno FFP2); otoprotettori; indumenti ad alta visibilità durante le manovre."
+  },
+  "Strutture e murature": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi",
+     "g": 1
+    },
+    {
+     "t": "Rischio chimico (cemento, malte, additivi)",
+     "g": 1
+    },
+    {
+     "t": "Punture, tagli, abrasioni da ferri e attrezzi",
+     "g": 1
+    },
+    {
+     "t": "Schiacciamenti durante getti e casserature",
+     "g": 2
+    }
+   ],
+   "misure": [
+    "Per le lavorazioni in quota impiegare trabattello o ponte su cavalletti conformi; verificare integrità e stabilità prima dell'uso.",
+    "Delimitare e segnalare l'area sottostante alle lavorazioni in quota; elmetto obbligatorio.",
+    "Movimentare manualmente i carichi a due addetti, con presa sicura e schiena eretta; utilizzare mezzi di sollevamento per i carichi pesanti.",
+    "Proteggere le estremità dei ferri di armatura con appositi tappi/copriferro; impilare i materiali in modo stabile.",
+    "Durante i getti verificare la tenuta delle casserature; non sostare sotto i carichi sospesi.",
+    "Attenersi alle schede di sicurezza di malte, additivi e disarmanti; evitare il contatto prolungato con la pelle."
+   ],
+   "emergenza": [
+    "Tenere a disposizione kit di primo soccorso ed estintore nelle vicinanze.",
+    "Mantenere accessibili e segnalate le vie di fuga."
+   ],
+   "dpi": "Casco; calzature antinfortunistiche; guanti da lavoro; occhiali protettivi; mascherina antipolvere ove necessario; indumenti ad alta visibilità."
+  },
+  "Coperture e facciate": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto dal bordo della copertura o dai ponteggi",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Sfondamento di lastre/coperture non portanti",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi",
+     "g": 1
+    },
+    {
+     "t": "Condizioni atmosferiche avverse (vento, pioggia, ghiaccio)",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni da utensili",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Eseguire i lavori da ponteggio conforme con parapetti regolamentari (h ≥ 1 m), tavola fermapiede e mantovana parasassi ove necessario; verificare il PiMUS per il ponteggio.",
+    "Per i lavori sulla falda predisporre andatoie, tavole ripartitrici del carico o sistemi anticaduta; vietato camminare su lastre non portanti.",
+    "Utilizzare imbracatura di sicurezza con ancoraggio idoneo (es. linea vita) quando non sia possibile la protezione collettiva.",
+    "Delimitare e segnalare l'area sottostante; elmetto obbligatorio; calare i materiali, non gettarli.",
+    "Sospendere le lavorazioni in quota in caso di vento forte, pioggia, neve o ghiaccio.",
+    "Utilizzare otoprotettori e guanti antivibrazioni durante l'uso di utensili."
+   ],
+   "emergenza": [
+    "Predisporre procedura di recupero dell'operatore sospeso in caso di caduta con imbracatura.",
+    "Vie di fuga e kit di primo soccorso sempre disponibili."
+   ],
+   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura anticaduta ove necessario; guanti; occhiali; otoprotettori; indumenti ad alta visibilità."
+  },
+  "Controsoffitti e finiture": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto durante le operazioni in quota",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Tagli, abrasioni e schiacciamenti da attrezzi e profili metallici",
+     "g": 1
+    },
+    {
+     "t": "Movimentazione manuale dei carichi",
+     "g": 1
+    },
+    {
+     "t": "Uso di sostanze chimiche (vernici, primer, collanti)",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri (cartongesso, rasanti)",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Per le lavorazioni utilizzare trabattelli o ponti su cavalletti; scale doppie solo per interventi sporadici e brevi con assistente a terra. Verificare l'integrità prima dell'uso.",
+    "Scendere sempre dal trabattello prima di spostarlo; non sovraccaricare la piattaforma; freni inseriti durante l'uso.",
+    "Interdire e segnalare la zona di lavoro; elmetto obbligatorio per chi transita nelle vicinanze.",
+    "Proteggere le mani con guanti antitaglio nella movimentazione di profili e lastre; stoccare i materiali in modo ordinato per evitare inciampi e crolli.",
+    "Attenersi alle schede di sicurezza dei prodotti chimici impiegati (da fornire al CSE prima dell'uso); garantire adeguata ventilazione degli ambienti.",
+    "Utilizzare mascherina antipolvere nelle fasi di taglio e rasatura e otoprotettori nelle fasi rumorose."
+   ],
+   "emergenza": [
+    "In prossimità delle aree di lavoro deve essere disponibile un kit di primo soccorso.",
+    "Assicurare che le vie di fuga siano sempre accessibili e chiaramente segnalate."
+   ],
+   "dpi": "Guanti da lavoro/antitaglio; calzature antinfortunistiche; casco; occhiali protettivi; mascherina antipolvere; otoprotettori nelle fasi rumorose."
+  },
+  "Impianti": {
+   "rischi": [
+    {
+     "t": "Folgorazione e contatti accidentali con parti in tensione",
+     "g": 2
+    },
+    {
+     "t": "Caduta dall'alto durante le operazioni in quota",
+     "g": 2
+    },
+    {
+     "t": "Tagli e abrasioni nella movimentazione di componenti",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri durante tracce e forometrie",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni da utensili (scanalatrici, trapani)",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Verificare preventivamente la messa fuori tensione degli impianti su cui si interviene; le lavorazioni elettriche devono essere eseguite esclusivamente da personale qualificato/abilitato.",
+    "Adottare la procedura di sezionamento e blocco (LOTO) e la verifica di assenza tensione prima dell'intervento.",
+    "Per le operazioni in quota usare trabattello conforme; le scale solo per interventi sporadici con assistente a terra.",
+    "Eseguire tracce e forometrie con utensili dotati di aspirazione/abbattimento polveri; segnalare l'area.",
+    "Utilizzare otoprotettori e guanti antivibrazioni; alternare le mansioni per ridurre l'esposizione.",
+    "Verificare la presenza e l'efficienza dei dispositivi di emergenza (estintori, kit di primo soccorso)."
+   ],
+   "emergenza": [
+    "In caso di folgorazione non toccare l'infortunato prima di aver tolto tensione; chiamare il 112.",
+    "Mantenere libere e segnalate le vie di fuga."
+   ],
+   "dpi": "Guanti isolanti/da lavoro; calzature di sicurezza; casco; occhiali protettivi; mascherina antipolvere; otoprotettori."
+  },
+  "Opere esterne e scavi": {
+   "rischi": [
+    {
+     "t": "Seppellimento e sprofondamento per franamento delle pareti dello scavo",
+     "g": 2
+    },
+    {
+     "t": "Investimento da mezzi d'opera in movimento",
+     "g": 2
+    },
+    {
+     "t": "Caduta entro lo scavo di persone o materiali",
+     "g": 2
+    },
+    {
+     "t": "Contatto con sottoservizi (elettrici, gas, idrici)",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi",
+     "g": 1
+    },
+    {
+     "t": "Scivolamenti e cadute a livello",
+     "g": 1
+    },
+    {
+     "t": "Rumore e polveri",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Prima dello scavo acquisire le mappe dei sottoservizi e verificarne la posizione; procedere con cautela in prossimità delle reti.",
+    "Armare o sbadacchiare le pareti dello scavo, oppure realizzare scarpate con angolo idoneo alla natura del terreno; vietato l'accesso a scavi non protetti.",
+    "Delimitare il ciglio dello scavo con parapetti/transennature e segnaletica; mantenere i materiali e i mezzi a distanza di sicurezza dal ciglio.",
+    "Regolamentare la circolazione dei mezzi; presenza di moviere con indumenti ad alta visibilità durante le manovre; vietato sostare nel raggio d'azione delle macchine.",
+    "Predisporre andatoie e passerelle per l'accesso allo scavo; mantenere ordine e pulizia per evitare scivolamenti.",
+    "Abbattere le polveri e utilizzare otoprotettori durante le fasi rumorose."
+   ],
+   "emergenza": [
+    "Predisporre vie di esodo dallo scavo (scale/rampe) ogni 20 m circa.",
+    "Kit di primo soccorso disponibile; numero unico emergenze 112."
+   ],
+   "dpi": "Casco; calzature antinfortunistiche; guanti; indumenti ad alta visibilità; otoprotettori; mascherina antipolvere ove necessario."
+  },
+  "Strutture speciali": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi e carichi sospesi",
+     "g": 2
+    },
+    {
+     "t": "Rischio chimico (resine, collanti, malte)",
+     "g": 1
+    },
+    {
+     "t": "Tagli, abrasioni e schiacciamenti",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Pianificare la lavorazione con il preposto; impiegare opere provvisionali conformi (ponteggi, trabattelli) e verificarne l'integrità.",
+    "Per il sollevamento dei carichi utilizzare apparecchi idonei e accessori certificati; non sostare sotto i carichi sospesi; area di tiro delimitata.",
+    "Delimitare e segnalare le aree; elmetto obbligatorio; calare i materiali, non gettarli.",
+    "Attenersi alle schede di sicurezza dei prodotti chimici; garantire ventilazione.",
+    "Utilizzare guanti antitaglio e proteggere gli spigoli vivi."
+   ],
+   "emergenza": [
+    "Procedura di emergenza per il recupero in quota ove si utilizzino sistemi anticaduta.",
+    "Vie di fuga libere; kit di primo soccorso ed estintori disponibili."
+   ],
+   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura ove necessario; guanti antitaglio; occhiali; otoprotettori."
+  },
+  "Nuove fasi personalizzate": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto (se lavorazione in quota)",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale dei carichi",
+     "g": 1
+    },
+    {
+     "t": "Tagli, abrasioni, urti da attrezzature",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Valutare i rischi specifici della lavorazione con il preposto prima dell'inizio e definire le misure di dettaglio.",
+    "Per le lavorazioni in quota impiegare opere provvisionali conformi; verificare le attrezzature prima dell'uso.",
+    "Delimitare e segnalare l'area di lavoro; mantenere sgombre le vie di fuga.",
+    "Utilizzare i DPI previsti e attenersi alle istruzioni del costruttore delle attrezzature impiegate.",
+    "Interrompere i lavori in caso di pericolo grave e imminente e segnalare al preposto."
+   ],
+   "emergenza": [
+    "Vie di fuga sempre libere e segnalate; kit di primo soccorso ed estintore disponibili."
+   ],
+   "dpi": "Casco; calzature antinfortunistiche; guanti; occhiali; mascherina antipolvere e otoprotettori ove necessario."
+  }
+ },
+ "ATT_SCHEDE": {
+  "Autocarro (Ford Transit cassone aperto 3,5 t)": {
+   "operazione": "Trasporto di materiali e attrezzature all'interno del perimetro del cantiere e per il carico/scarico e lo smaltimento dei materiali di risulta.",
+   "rischi": [
+    {
+     "t": "Investimento",
+     "g": 1
+    },
+    {
+     "t": "Caduta di materiale",
+     "g": 1
+    },
+    {
+     "t": "Danni conseguenti a malfunzionamento del mezzo",
+     "g": 2
+    }
+   ],
+   "prima": [
+    "Verificare l'efficienza dei freni, della segnalazione acustica e luminosa e regolare gli specchi retrovisori."
+   ],
+   "durante": [
+    "Farsi assistere da personale a terra (moviere con indumenti ad alta visibilità) durante le manovre in retromarcia.",
+    "Procedere a velocità ridotta; non trasportare persone sul cassone; non superare la portata del mezzo.",
+    "Informare i referenti della committenza dell'inizio e della durata delle operazioni di carico/scarico."
+   ],
+   "dopo": [
+    "Ripulire l'automezzo con attenzione a specchi, luci e ruote; verificare freni e luci."
+   ],
+   "dpi": "a) calzature di sicurezza; b) guanti; c) giubbotto ad alta visibilità durante le manovre.",
+   "note": [
+    "Usare solo automezzi sottoposti a manutenzione programmata e revisione periodica.",
+    "Obbligo di patente di guida adeguata al mezzo anche in area privata."
+   ],
+   "rif": "T.U.S.L., Art. 108 e Allegato XVIII."
+  },
+  "Attrezzi manuali": {
+   "operazione": "Utilizzo di attrezzi manuali (cutter, mazzetta, scalpello, cacciaviti, seghe manuali, chiavi, ecc.) per le lavorazioni di cantiere.",
+   "rischi": [
+    {
+     "t": "Punture, tagli, abrasioni",
+     "g": 1
+    },
+    {
+     "t": "Urti, colpi, impatti, compressioni",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Accertarsi del buono stato della parte lavorativa dell'utensile.",
+    "Assicurarsi del buono stato del manico e del suo efficace fissaggio."
+   ],
+   "durante": [
+    "Utilizzare idonei paracolpi quando si impiegano punte e/o scalpelli.",
+    "Assumere una posizione stabile e corretta; evitare di abbandonare gli attrezzi nei passaggi."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) occhiali; d) guanti.",
+   "rif": "T.U.S.L., Allegato VI."
+  },
+  "Trabattello (ponte su ruote)": {
+   "operazione": "Esecuzione di lavori temporanei in quota. Deve essere marcato CE e conforme alla norma UNI EN 1004.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Cedimento strutturale o ribaltamento",
+     "g": 2
+    },
+    {
+     "t": "Scivolamenti, inciampi",
+     "g": 1
+    },
+    {
+     "t": "Urti, colpi, impatti",
+     "g": 1
+    }
+   ],
+   "org": [
+    "La superficie di calpestio deve essere antisdrucciolo e con larghezza minima di 60 cm.",
+    "Deve essere dotato di parapetto perimetrale (h ≥ 1 m) e tavola fermapiede su tutti i lati.",
+    "Le ruote devono essere dotate di freni a pedale, da inserire durante l'uso."
+   ],
+   "prima": [
+    "Verificare l'integrità dei componenti e la corretta installazione di parapetti, fermapiedi e stabilizzatori.",
+    "Posizionare il trabattello su superficie piana e stabile; inserire i freni alle ruote prima di salire."
+   ],
+   "durante": [
+    "Vietato sovraccaricare la piattaforma oltre il limite del costruttore.",
+    "Vietato spostare il trabattello con persone o materiali sulla piattaforma; scendere prima di ogni spostamento."
+   ],
+   "dpi": "a) casco; b) calzature antinfortunistiche; c) guanti; d) imbracatura di sicurezza se necessario.",
+   "rif": "T.U.S.L., Art. 122; UNI EN 1004."
+  },
+  "Ponte su cavalletti": {
+   "operazione": "Esecuzione di lavori a modesta altezza in ambienti interni.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Scivolamenti",
+     "g": 1
+    }
+   ],
+   "org": [
+    "Impiegabile solo per altezze modeste e su piano stabile; impalcato completo e ben fissato ai cavalletti."
+   ],
+   "prima": [
+    "Verificare la stabilità e l'integrità dei cavalletti e delle tavole prima dell'uso."
+   ],
+   "durante": [
+    "Non sovraccaricare; mantenere il piano di calpestio antisdrucciolo e sgombro."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza.",
+   "rif": "T.U.S.L., Art. 124-126."
+  },
+  "Scala doppia": {
+   "operazione": "Operazioni di carattere temporaneo a quote non altrimenti raggiungibili.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Cesoiamenti, stritolamenti",
+     "g": 1
+    },
+    {
+     "t": "Urti, colpi, impatti",
+     "g": 1
+    }
+   ],
+   "org": [
+    "Non deve superare l'altezza di 5 m.",
+    "Deve essere provvista di catena o dispositivo che impedisca l'apertura oltre il limite di sicurezza."
+   ],
+   "prima": [
+    "Vietata la riparazione dei pioli con listelli chiodati; utilizzare solo su terreno stabile e in piano."
+   ],
+   "durante": [
+    "Un solo lavoratore per volta; salita e discesa con il viso rivolto verso la scala; sito sgombro da materiali."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) guanti.",
+   "rif": "T.U.S.L., Art. 113."
+  },
+  "Scala semplice": {
+   "operazione": "Operazioni di carattere temporaneo a quote non altrimenti raggiungibili.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Urti, colpi, impatti",
+     "g": 1
+    }
+   ],
+   "org": [
+    "Deve sporgere almeno 1 m oltre il piano di accesso e distare dalla verticale di 1/4 della propria lunghezza."
+   ],
+   "prima": [
+    "Installare in sito sgombro da materiali e lontano dai passaggi."
+   ],
+   "durante": [
+    "Le scale non vincolate devono essere trattenute al piede da altra persona (assistente a terra).",
+    "Utilizzo da una sola persona per volta; salita e discesa con il viso verso la scala."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) guanti.",
+   "rif": "T.U.S.L., Art. 113."
+  },
+  "Smerigliatrice angolare (flessibile)": {
+   "operazione": "Utensile portatile con disco rotante per il taglio e la molatura di materiali.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Inalazione polveri, fibre",
+     "g": 1
+    },
+    {
+     "t": "Punture, tagli, abrasioni",
+     "g": 2
+    },
+    {
+     "t": "Ustioni",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Assicurarsi che l'utensile sia a doppio isolamento (220V), non collegato a terra.",
+    "Accertarsi che cavo e spina non presentino danneggiamenti e dell'assenza di materiale infiammabile nei pressi.",
+    "Assicurarsi del corretto fissaggio del disco e della sua idoneità al lavoro; delimitare la zona di lavoro."
+   ],
+   "durante": [
+    "Impugnare saldamente con entrambe le mani; non rimuovere il carter di protezione; non toccare il disco al termine."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) occhiali; d) maschera antipolvere; e) otoprotettori; f) guanti antivibrazioni.",
+   "rif": "T.U.S.L., Titolo III; CEI 64-8."
+  },
+  "Martello demolitore elettrico": {
+   "operazione": "Demolizione e scrostamento di murature, intonaci e calcestruzzi.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Inalazione polveri",
+     "g": 1
+    },
+    {
+     "t": "Vibrazioni",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    },
+    {
+     "t": "Proiezione di schegge",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare doppio isolamento, integrità di cavo e spina e idoneità della punta.",
+    "Delimitare e segnalare l'area di lavoro."
+   ],
+   "durante": [
+    "Impugnare saldamente; non forzare l'utensile; abbattere le polveri ove possibile."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) occhiali; d) maschera antipolvere; e) otoprotettori; f) guanti antivibrazioni.",
+   "rif": "T.U.S.L., Titolo III, Capo I e III."
+  },
+  "Betoniera a bicchiere": {
+   "operazione": "Confezionamento di malte e calcestruzzi in cantiere.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Cesoiamento, stritolamento da organi in movimento",
+     "g": 2
+    },
+    {
+     "t": "Rischio chimico (cemento)",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "org": [
+    "La macchina deve essere provvista di protezioni sugli organi di trasmissione e sul bicchiere."
+   ],
+   "prima": [
+    "Verificare la presenza e l'efficienza delle protezioni e dell'interruttore; collegamento elettrico a norma."
+   ],
+   "durante": [
+    "Non introdurre attrezzi o mani nel bicchiere in rotazione; non rimuovere le protezioni."
+   ],
+   "dpi": "a) casco; b) calzature di sicurezza; c) guanti; d) occhiali; e) maschera antipolvere; f) otoprotettori.",
+   "rif": "T.U.S.L., Allegato V e VI."
+  },
+  "Ponteggio metallico fisso": {
+   "operazione": "Opera provvisionale per lavori in quota su facciate e coperture. Montaggio, uso e smontaggio secondo PiMUS.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Crollo/ribaltamento del ponteggio",
+     "g": 2
+    }
+   ],
+   "org": [
+    "Montaggio, trasformazione e smontaggio eseguiti secondo il PiMUS da personale formato (preposto e addetti).",
+    "Ponteggio con autorizzazione ministeriale, parapetti regolamentari, fermapiede, mantovane parasassi e ancoraggi adeguati."
+   ],
+   "prima": [
+    "Verificare basette, ancoraggi, controventature, impalcati completi e integri prima di ogni turno."
+   ],
+   "durante": [
+    "Non rimuovere elementi di protezione; non sovraccaricare gli impalcati; calare i materiali, non gettarli."
+   ],
+   "dpi": "a) casco con sottogola; b) calzature antinfortunistiche; c) guanti; d) imbracatura durante montaggio/smontaggio.",
+   "rif": "T.U.S.L., Titolo IV, Capo II; Allegati da XVIII a XXIII; PiMUS."
+  },
+  "Quadro elettrico di cantiere": {
+   "operazione": "Distribuzione dell'energia elettrica alle utenze di cantiere.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Incendio",
+     "g": 1
+    }
+   ],
+   "org": [
+    "Utilizzare quadri ASC (a norma CEI 17-13/4) con interruttori differenziali e impianto di terra; prese interbloccate."
+   ],
+   "prima": [
+    "Verificare l'integrità di quadro, cavi, prese e dell'impianto di terra; presenza della dichiarazione di conformità."
+   ],
+   "durante": [
+    "Non manomettere le protezioni; proteggere cavi e quadro da urti e acqua; interventi solo da personale abilitato."
+   ],
+   "dpi": "a) calzature di sicurezza; b) guanti isolanti per il personale abilitato.",
+   "rif": "T.U.S.L., Titolo III, Capo III; CEI 64-8/7; CEI 17-13/4."
+  }
+ },
+ "RISK_CATALOG": [
+  {
+   "nome": "Caduta dall'alto",
+   "g": 2,
+   "P": 2,
+   "D": 4,
+   "misure": "Le perdite di stabilità devono essere impedite con misure di prevenzione collettiva: parapetti su impalcati e aperture, ponteggi e trabattelli conformi con parapetto (h ≥ 1 m), fermapiede e piano di calpestio completo. Ove non sia possibile la protezione collettiva, utilizzare imbracatura anticaduta con ancoraggio idoneo. Le scale a pioli solo per accessi o interventi brevi e sporadici, con assistente a terra."
+  },
+  {
+   "nome": "Caduta di materiale dall'alto o a livello",
+   "g": 2,
+   "P": 2,
+   "D": 3,
+   "misure": "I materiali non devono essere gettati dall'alto ma calati o convogliati a terra. Delimitare e segnalare l'area sottostante; elmetto obbligatorio. Stoccare i materiali in modo stabile e ordinato lontano dai bordi."
+  },
+  {
+   "nome": "Chimico",
+   "g": 1,
+   "P": 2,
+   "D": 2,
+   "misure": "Attenersi alle schede di sicurezza dei prodotti (da consegnare al CSE prima dell'uso). Utilizzare i DPI indicati, garantire ventilazione, impiegare le quantità minime necessarie e smaltire correttamente i residui."
+  },
+  {
+   "nome": "Elettrocuzione",
+   "g": 2,
+   "P": 2,
+   "D": 4,
+   "misure": "I lavori su impianti o apparecchiature elettriche devono essere effettuati solo da personale qualificato di imprese abilitate, previo sezionamento e verifica di assenza tensione. Quadri ASC, impianti di terra e differenziali a norma; cavi e prese integri."
+  },
+  {
+   "nome": "Inalazione polveri, fibre",
+   "g": 2,
+   "P": 3,
+   "D": 3,
+   "misure": "Ridurre il sollevamento di polvere bagnando le superfici e garantendo ventilazione; impiegare utensili con aspirazione. Uso obbligatorio di mascherina (almeno FFP2/FFP3 secondo la lavorazione)."
+  },
+  {
+   "nome": "Amianto / Fibre Artificiali Vetrose (FAV)",
+   "g": 2,
+   "P": 1,
+   "D": 4,
+   "misure": "Prima di rimozioni e demolizioni verificare l'eventuale presenza di materiali contenenti amianto o FAV. In caso di rinvenimento, SOSPENDERE le lavorazioni, segnalare a preposto e CSE: la rimozione amianto richiede impresa abilitata e Piano di Lavoro ex art. 256 D.Lgs. 81/2008 notificato all'organo di vigilanza (ASL)."
+  },
+  {
+   "nome": "M.M.C. (movimentazione manuale dei carichi)",
+   "g": 1,
+   "P": 3,
+   "D": 2,
+   "misure": "Il sollevamento dei carichi deve essere eseguito con due mani e possibilmente a due addetti, con schiena eretta e senza movimenti bruschi o torsioni; ricorrere ad ausili meccanici per i carichi pesanti; alternare le mansioni."
+  },
+  {
+   "nome": "Punture, tagli, abrasioni",
+   "g": 1,
+   "P": 3,
+   "D": 2,
+   "misure": "Utilizzo obbligatorio di guanti resistenti al taglio nella movimentazione di materiali e profili metallici; proteggere gli spigoli vivi e le estremità dei ferri; mantenere gli utensili in buono stato."
+  },
+  {
+   "nome": "Rumore",
+   "g": 1,
+   "P": 3,
+   "D": 2,
+   "misure": "L'impresa ha effettuato la valutazione del rischio rumore ai sensi del D.Lgs. 81/2008, Titolo VIII, Capo II. Utilizzo di otoprotettori (SNR adeguato) durante le fasi rumorose; limitare i tempi di esposizione e impiegare attrezzature a bassa emissione."
+  },
+  {
+   "nome": "Scivolamenti, cadute a livello",
+   "g": 1,
+   "P": 2,
+   "D": 2,
+   "misure": "Mantenere l'area di lavoro in ordine e pulizia; rimuovere periodicamente i detriti; segnalare le superfici scivolose; illuminare adeguatamente i percorsi."
+  },
+  {
+   "nome": "Vibrazioni",
+   "g": 1,
+   "P": 2,
+   "D": 2,
+   "misure": "Utilizzare utensili a basse vibrazioni e guanti antivibrazioni; alternare le mansioni e prevedere pause adeguate per contenere l'esposizione (Mano-Braccio e Corpo Intero) entro i valori di legge."
+  },
+  {
+   "nome": "Investimento",
+   "g": 2,
+   "P": 2,
+   "D": 3,
+   "misure": "Regolamentare e separare i percorsi di mezzi e pedoni; presenza di moviere con indumenti ad alta visibilità durante le manovre; velocità ridotta in cantiere; vietato sostare nel raggio d'azione delle macchine."
+  },
+  {
+   "nome": "Seppellimento, sprofondamento",
+   "g": 2,
+   "P": 1,
+   "D": 4,
+   "misure": "Armare o sbadacchiare le pareti degli scavi o realizzare scarpate idonee; vietare l'accesso a scavi non protetti; tenere materiali e mezzi a distanza dal ciglio; prevedere vie di esodo dallo scavo."
+  },
+  {
+   "nome": "Incendio, esplosione",
+   "g": 2,
+   "P": 1,
+   "D": 3,
+   "misure": "Presenza di estintori idonei in cantiere; divieto di fumo e fiamme libere in presenza di materiali infiammabili; addetti antincendio formati; coordinamento con il Piano di Emergenza dell'edificio."
+  },
+  {
+   "nome": "Interferenza con attività di terzi in essere",
+   "g": 2,
+   "P": 2,
+   "D": 3,
+   "misure": "Interdire tutti gli accessi agli ambienti interessati dalle lavorazioni; informare i referenti della committenza; coordinare le attività tramite il CSE; segnaletica e delimitazioni adeguate."
+  }
+ ],
+ "ATT_CAT": {
+  "Sollevamento e trasporto": [
+   "Autocarro (Ford Transit cassone aperto 3,5 t)",
+   "Argano di sollevamento elettrico",
+   "Argano a bandiera",
+   "Montacarichi da cantiere",
+   "Autobetoniera",
+   "Autogrù",
+   "Autopompa per cls",
+   "Gru a torre",
+   "Carriola"
+  ],
+  "Opere provvisionali e accesso": [
+   "Ponteggio metallico fisso",
+   "Trabattello (ponte su ruote)",
+   "Ponte su cavalletti",
+   "Scala doppia",
+   "Scala semplice",
+   "Andatoie e passerelle"
+  ],
+  "Elettroutensili e utensili": [
+   "Attrezzi manuali",
+   "Smerigliatrice angolare (flessibile)",
+   "Martello demolitore elettrico",
+   "Martello demolitore pneumatico",
+   "Sega circolare",
+   "Scanalatrice per muri ed intonaci",
+   "Tagliamuri (sega a disco)",
+   "Taglierina elettrica",
+   "Trapano elettrico",
+   "Battipiastrelle elettrico",
+   "Vibratore elettrico per calcestruzzo",
+   "Motosega a motore"
+  ],
+  "Impastaggio e finitura": [
+   "Impastatrice",
+   "Betoniera a bicchiere",
+   "Intonacatrice"
+  ],
+  "Movimento terra": [
+   "Escavatore meccanico",
+   "Escavatore mini",
+   "Escavatore con martello demolitore",
+   "Escavatore con pinza idraulica",
+   "Pala meccanica/minipala"
+  ],
+  "Impianti di cantiere ed energia": [
+   "Quadro elettrico di cantiere",
+   "Compressore con motore endotermico",
+   "Centralina idraulica a motore"
+  ],
+  "Saldatura e fiamma": [
+   "Cannello a gas",
+   "Cannello per saldatura ossiacetilenica",
+   "Saldatrice elettrica"
+  ]
+ }
+}
