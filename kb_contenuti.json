@@ -1,7 +1,7 @@
 {
- "rev": 1,
- "version": "1.0 (base)",
- "generato": "2026-06-07",
+ "rev": 2,
+ "version": "1.1 (giugno 2026 — lavorazioni aggiuntive)",
+ "generato": "2026-06-08",
  "KB_FASI": {
   "Demolizioni e rimozioni": [
    "Demolizione e rimozione abbassamento soffitto esistente",
@@ -18,7 +18,11 @@
    "Carico, trasporto e smaltimento materiali di risulta",
    "Rimozione/taglio strutture in cls e c.a. con mezzi meccanici",
    "Demolizione e smaltimento copertura esistente",
-   "Rimozione e smaltimento amianto ⚠"
+   "Rimozione e smaltimento amianto ⚠",
+   "Rimozione di pavimentazioni esterne",
+   "Demolizione di massetti e sottofondi",
+   "Rimozione di apparecchi sanitari e idrosanitari",
+   "Rimozione di rivestimenti ceramici"
   ],
   "Strutture e murature": [
    "Realizzazione divisori interni in cartongesso o muratura",
@@ -29,7 +33,11 @@
    "Posa ferri di armatura e getto in calcestruzzo",
    "Realizzazione tracce/aperture nelle murature",
    "Esecuzione opere in laterizio",
-   "Realizzazione opere in cls/c.a. con casserature"
+   "Realizzazione opere in cls/c.a. con casserature",
+   "Realizzazione di vespai aerati e drenaggi",
+   "Cuciture armate e rinforzi di murature",
+   "Posa di architravi e cerchiature di aperture",
+   "Realizzazione di massetti e sottofondi"
   ],
   "Coperture e facciate": [
    "Rifacimento del manto di copertura",
@@ -42,7 +50,11 @@
    "Opere da lattoniere",
    "Tinteggiatura facciate esterne e verniciatura",
    "Nuovo manto di copertura con linea vita",
-   "Isolamento acustico e termico – cappotto esterno"
+   "Isolamento acustico e termico – cappotto esterno",
+   "Posa di lucernari e finestre da tetto",
+   "Installazione di linee vita e ancoraggi",
+   "Coibentazione di coperture",
+   "Rifacimento di canne fumarie e comignoli"
   ],
   "Controsoffitti e finiture": [
    "Controsoffitto in quadrotti di fibra minerale e velette",
@@ -54,7 +66,11 @@
    "Tinteggiatura di superfici interne",
    "Sostituzione serramenti interni ed esterni",
    "Intonaci interni (rustico/stabilitura)",
-   "Sottofondi e massetti per pavimenti"
+   "Sottofondi e massetti per pavimenti",
+   "Posa di pavimenti in resina",
+   "Levigatura e lucidatura di pavimenti",
+   "Posa di parquet e pavimenti in legno",
+   "Posa di controsoffitti fonoassorbenti"
   ],
   "Impianti": [
    "Assistenze all'impianto idraulico",
@@ -62,7 +78,11 @@
    "Realizzazione nuovi impianti (elettrico, meccanico, idraulico)",
    "Assistenze murarie impianti (tracce, forometrie)",
    "Impianto solare termico",
-   "Impianto termico, idrico-sanitario e del gas"
+   "Impianto termico, idrico-sanitario e del gas",
+   "Installazione di impianto di climatizzazione (split/VRV)",
+   "Realizzazione di impianto fotovoltaico in copertura",
+   "Installazione di impianto di rilevazione fumi e antincendio",
+   "Posa di impianto di videosorveglianza/TVCC"
   ],
   "Opere esterne e scavi": [
    "Realizzazione recinzione e cancellate",
@@ -76,7 +96,11 @@
    "Impermeabilizzazione pareti controterra",
    "Rinterro degli scavi",
    "Nuova recinzione in muratura e grigliato metallico",
-   "Impianti esterni (condutture idriche e fognarie)"
+   "Impianti esterni (condutture idriche e fognarie)",
+   "Posa di masselli autobloccanti e pavimentazioni esterne",
+   "Realizzazione di marciapiedi, cordoli e caditoie",
+   "Realizzazione di muri di sostegno",
+   "Posa di reti tecnologiche e cavidotti"
   ],
   "Strutture speciali": [
    "Loculi funerari/opere cimiteriali",
@@ -84,7 +108,19 @@
    "Posa rivestimenti in pietra naturale",
    "Struttura in legno lamellare e assito",
    "Smaltimento amianto ⚠ procedura speciale",
-   "Montaggio/smontaggio ponteggio metallico fisso ⚠ PIMUS"
+   "Montaggio/smontaggio ponteggio metallico fisso ⚠ PIMUS",
+   "Interventi su carpenteria metallica e strutture in ferro",
+   "Consolidamento di fondazioni (micropali/sottomurazioni)",
+   "Realizzazione di scale e parapetti metallici"
+  ],
+  "Impermeabilizzazioni e isolamenti": [
+   "Impermeabilizzazione di terrazze e balconi",
+   "Impermeabilizzazione di coperture piane",
+   "Posa di guaina bituminosa a fiamma",
+   "Impermeabilizzazione di fondazioni e pareti controterra",
+   "Posa di isolamento termico a cappotto",
+   "Insufflaggio di isolante in intercapedine",
+   "Posa di isolamento acustico"
   ]
  },
  "KB_ATTREZZATURE": [
@@ -544,6 +580,47 @@
     "Vie di fuga libere; kit di primo soccorso ed estintori disponibili."
    ],
    "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura ove necessario; guanti antitaglio; occhiali; otoprotettori."
+  },
+  "Impermeabilizzazioni e isolamenti": {
+   "rischi": [
+    {
+     "t": "Caduta dall'alto durante le operazioni in quota (terrazze, coperture, ponteggi)",
+     "g": 2
+    },
+    {
+     "t": "Ustioni e incendio nell'uso della fiamma (posa guaina bituminosa)",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di fumi e vapori di bitume e solventi",
+     "g": 1
+    },
+    {
+     "t": "Rischio chimico (primer, resine, collanti)",
+     "g": 1
+    },
+    {
+     "t": "Movimentazione manuale dei carichi (rotoli, pannelli)",
+     "g": 1
+    },
+    {
+     "t": "Scivolamenti su superfici trattate o bagnate",
+     "g": 1
+    }
+   ],
+   "misure": [
+    "Per le lavorazioni in quota impiegare ponteggi o trabattelli conformi con parapetti; adottare sistemi anticaduta dove manca la protezione collettiva; particolare attenzione ai bordi di terrazze e coperture.",
+    "Nell'uso del cannello a fiamma: tenere un estintore a portata di mano, allontanare i materiali infiammabili, non operare in ambienti chiusi non ventilati, vietato fumare; effettuare la sorveglianza antincendio dell'area al termine del lavoro.",
+    "Garantire ventilazione adeguata durante l'applicazione di bitumi, primer e solventi; attenersi alle schede di sicurezza dei prodotti (da fornire al CSE prima dell'uso).",
+    "Movimentare rotoli e pannelli a due addetti; impilarli in modo stabile per evitare cadute.",
+    "Mantenere ordine e pulizia; segnalare le superfici scivolose e i prodotti freschi.",
+    "Verificare le condizioni meteo: sospendere le lavorazioni in quota in caso di pioggia o vento forte."
+   ],
+   "emergenza": [
+    "Estintore obbligatorio in prossimità delle lavorazioni con fiamma; sorveglianza dell'area dopo l'uso del cannello.",
+    "Vie di fuga libere e kit di primo soccorso disponibile; in caso di ustione raffreddare con acqua e chiamare il 112 se grave."
+   ],
+   "dpi": "Casco; calzature antinfortunistiche; guanti resistenti al calore per l'uso della fiamma; occhiali protettivi; maschera per vapori organici (filtri idonei) con solventi/bitumi; indumenti protettivi; imbracatura anticaduta ove necessario."
   },
   "Nuove fasi personalizzate": {
    "rischi": [
