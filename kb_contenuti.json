@@ -1,7 +1,7 @@
 {
- "rev": 2,
- "version": "1.1 (giugno 2026 — lavorazioni aggiuntive)",
- "generato": "2026-06-08",
+ "rev": 3,
+ "version": "1.2 (ottobre 2026 - fonti normative)",
+ "generato": "2026-10-04",
  "KB_FASI": {
   "Demolizioni e rimozioni": [
    "Demolizione e rimozione abbassamento soffitto esistente",
@@ -334,7 +334,8 @@
     "Mantenere sempre libere e segnalate le vie di fuga.",
     "Verificare la presenza, in prossimità dell'area operativa, di estintore e kit di primo soccorso."
    ],
-   "dpi": "Casco (con sottogola nelle operazioni in quota); calzature antinfortunistiche; guanti da lavoro resistenti; occhiali protettivi; mascherina antipolvere (almeno FFP2); otoprotettori; indumenti ad alta visibilità durante le manovre."
+   "dpi": "Casco (con sottogola nelle operazioni in quota); calzature antinfortunistiche; guanti da lavoro resistenti; occhiali protettivi; mascherina antipolvere (almeno FFP2); otoprotettori; indumenti ad alta visibilità durante le manovre.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II Sez. VIII Demolizioni (artt. 150-156); lavori in quota (artt. 111, 115); caduta materiali (art. 114); amianto Titolo IX Capo III (artt. 246-261, Piano di Lavoro art. 256); polveri e agenti chimici/cancerogeni (Titolo IX Capi I-II); rumore (Titolo VIII Capo II); All. XV."
   },
   "Strutture e murature": {
    "rischi": [
@@ -375,7 +376,8 @@
     "Tenere a disposizione kit di primo soccorso ed estintore nelle vicinanze.",
     "Mantenere accessibili e segnalate le vie di fuga."
    ],
-   "dpi": "Casco; calzature antinfortunistiche; guanti da lavoro; occhiali protettivi; mascherina antipolvere ove necessario; indumenti ad alta visibilità."
+   "dpi": "Casco; calzature antinfortunistiche; guanti da lavoro; occhiali protettivi; mascherina antipolvere ove necessario; indumenti ad alta visibilità.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II opere provvisionali e lavori in quota (artt. 111, 112, 115); caduta materiali (art. 114); M.M.C. (Titolo VI, artt. 167-171, All. XXXIII); rischio chimico malte/additivi/disarmanti (Titolo IX Capo I, artt. 221-232); All. XV."
   },
   "Coperture e facciate": {
    "rischi": [
@@ -416,7 +418,8 @@
     "Predisporre procedura di recupero dell'operatore sospeso in caso di caduta con imbracatura.",
     "Vie di fuga e kit di primo soccorso sempre disponibili."
    ],
-   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura anticaduta ove necessario; guanti; occhiali; otoprotettori; indumenti ad alta visibilità."
+   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura anticaduta ove necessario; guanti; occhiali; otoprotettori; indumenti ad alta visibilità.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II lavori su coperture ed elementi fragili (art. 148), lavori in quota (artt. 111, 115), caduta materiali (art. 114); ponteggi (Sez. V, artt. 131-138, PiMUS art. 136); amianto (art. 256); All. XV."
   },
   "Controsoffitti e finiture": {
    "rischi": [
@@ -461,7 +464,8 @@
     "In prossimità delle aree di lavoro deve essere disponibile un kit di primo soccorso.",
     "Assicurare che le vie di fuga siano sempre accessibili e chiaramente segnalate."
    ],
-   "dpi": "Guanti da lavoro/antitaglio; calzature antinfortunistiche; casco; occhiali protettivi; mascherina antipolvere; otoprotettori nelle fasi rumorose."
+   "dpi": "Guanti da lavoro/antitaglio; calzature antinfortunistiche; casco; occhiali protettivi; mascherina antipolvere; otoprotettori nelle fasi rumorose.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (artt. 111, 115); M.M.C. (Titolo VI); rischio chimico vernici/primer/collanti (Titolo IX Capo I, artt. 221-232); polveri; rumore (Titolo VIII Capo II); All. XV."
   },
   "Impianti": {
    "rischi": [
@@ -498,7 +502,8 @@
     "In caso di folgorazione non toccare l'infortunato prima di aver tolto tensione; chiamare il 112.",
     "Mantenere libere e segnalate le vie di fuga."
    ],
-   "dpi": "Guanti isolanti/da lavoro; calzature di sicurezza; casco; occhiali protettivi; mascherina antipolvere; otoprotettori."
+   "dpi": "Guanti isolanti/da lavoro; calzature di sicurezza; casco; occhiali protettivi; mascherina antipolvere; otoprotettori.",
+   "fonte": "D.Lgs. 81/2008: Titolo III Capo III impianti e apparecchiature elettriche (artt. 80-87); norma CEI 11-27 (lavori elettrici PES/PAV); lavori in quota (Titolo IV, artt. 111, 115); rumore e vibrazioni (Titolo VIII Capi II-III, artt. 187-205); All. XV."
   },
   "Opere esterne e scavi": {
    "rischi": [
@@ -543,7 +548,8 @@
     "Predisporre vie di esodo dallo scavo (scale/rampe) ogni 20 m circa.",
     "Kit di primo soccorso disponibile; numero unico emergenze 112."
    ],
-   "dpi": "Casco; calzature antinfortunistiche; guanti; indumenti ad alta visibilità; otoprotettori; mascherina antipolvere ove necessario."
+   "dpi": "Casco; calzature antinfortunistiche; guanti; indumenti ad alta visibilità; otoprotettori; mascherina antipolvere ove necessario.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II Sez. III scavi e fondazioni (artt. 118-121); organizzazione area di cantiere e investimento (All. XV; Titolo IV); rumore e polveri (Titolo VIII; Titolo IX); All. XV."
   },
   "Strutture speciali": {
    "rischi": [
@@ -579,7 +585,8 @@
     "Procedura di emergenza per il recupero in quota ove si utilizzino sistemi anticaduta.",
     "Vie di fuga libere; kit di primo soccorso ed estintori disponibili."
    ],
-   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura ove necessario; guanti antitaglio; occhiali; otoprotettori."
+   "dpi": "Casco con sottogola; calzature antinfortunistiche; imbracatura ove necessario; guanti antitaglio; occhiali; otoprotettori.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (artt. 111, 115); apparecchi di sollevamento e attrezzature (Titolo III Capo I; Allegati V e VI); carichi sospesi e M.M.C. (Titolo VI); rischio chimico resine/collanti (Titolo IX Capo I); All. XV."
   },
   "Impermeabilizzazioni e isolamenti": {
    "rischi": [
@@ -620,7 +627,8 @@
     "Estintore obbligatorio in prossimità delle lavorazioni con fiamma; sorveglianza dell'area dopo l'uso del cannello.",
     "Vie di fuga libere e kit di primo soccorso disponibile; in caso di ustione raffreddare con acqua e chiamare il 112 se grave."
    ],
-   "dpi": "Casco; calzature antinfortunistiche; guanti resistenti al calore per l'uso della fiamma; occhiali protettivi; maschera per vapori organici (filtri idonei) con solventi/bitumi; indumenti protettivi; imbracatura anticaduta ove necessario."
+   "dpi": "Casco; calzature antinfortunistiche; guanti resistenti al calore per l'uso della fiamma; occhiali protettivi; maschera per vapori organici (filtri idonei) con solventi/bitumi; indumenti protettivi; imbracatura anticaduta ove necessario.",
+   "fonte": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (artt. 111, 115) e lavori su coperture (art. 148); M.M.C. (Titolo VI, artt. 167-171, All. XXXIII); rischio chimico bitumi, primer, resine e solventi (Titolo IX Capo I, artt. 221-232); prevenzione incendi nell'uso della fiamma libera (art. 46); All. XV."
   },
   "Nuove fasi personalizzate": {
    "rischi": [
@@ -1144,5 +1152,31 @@
    "Cannello per saldatura ossiacetilenica",
    "Saldatrice elettrica"
   ]
- }
+ },
+ "changelog": [
+  {
+   "rev": 1,
+   "version": "1.0 (base)",
+   "data": "2026-06-07",
+   "note": [
+    "Set iniziale dei contenuti tecnici: rischi, misure, schede e catalogo P×D."
+   ]
+  },
+  {
+   "rev": 2,
+   "version": "1.1 (giugno 2026 — lavorazioni aggiuntive)",
+   "data": "2026-06-08",
+   "note": [
+    "Lavorazioni aggiuntive."
+   ]
+  },
+  {
+   "rev": 3,
+   "version": "1.2 (ottobre 2026 - fonti normative)",
+   "data": "2026-10-04",
+   "note": [
+    "Ripristinati i riferimenti normativi (fonte D.Lgs. 81/2008) su tutte le schede lavorazioni, anche nel POS generato."
+   ]
+  }
+ ]
 }
