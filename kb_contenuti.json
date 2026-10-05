@@ -1,7 +1,7 @@
 {
- "rev": 3,
- "version": "1.2 (ottobre 2026 - fonti normative)",
- "generato": "2026-10-04",
+ "rev": 4,
+ "version": "1.3 (ottobre 2026 - schede attrezzature complete)",
+ "generato": "2026-06-08",
  "KB_FASI": {
   "Demolizioni e rimozioni": [
    "Demolizione e rimozione abbassamento soffitto esistente",
@@ -667,6 +667,886 @@
   }
  },
  "ATT_SCHEDE": {
+  "Escavatore meccanico": {
+   "operazione": "Scavo, carico e movimentazione di materiali.",
+   "rischi": [
+    {
+     "t": "Investimento e schiacciamento di persone a terra",
+     "g": 2
+    },
+    {
+     "t": "Ribaltamento del mezzo",
+     "g": 2
+    },
+    {
+     "t": "Contatto con linee elettriche aeree o sottoservizi",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dalla benna",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Operatore abilitato (Accordo Stato-Regioni 22/02/2012); cabina ROPS/FOPS e cintura di sicurezza.",
+    "Delimitare e interdire il raggio d'azione; vietato sostare o transitare nell'area di manovra; manovre segnalate da moviere.",
+    "Verificare la portanza del terreno e le distanze di sicurezza da scavi e linee elettriche; non sollevare persone con la benna.",
+    "A fine turno abbassare la benna a terra, inserire il freno di stazionamento e rimuovere le chiavi."
+   ],
+   "dpi": "Casco fuori dalla cabina; calzature di sicurezza; indumenti ad alta visibilità; otoprotettori.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, All. V/VI); abilitazione Accordo Stato-Regioni 22/02/2012; Titolo IV."
+  },
+  "Escavatore mini": {
+   "operazione": "Scavo e movimentazione di materiali in spazi ridotti.",
+   "rischi": [
+    {
+     "t": "Ribaltamento (accentuato su terreni cedevoli o in pendenza)",
+     "g": 2
+    },
+    {
+     "t": "Investimento e schiacciamento di persone a terra",
+     "g": 2
+    },
+    {
+     "t": "Contatto con sottoservizi",
+     "g": 2
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Operatore abilitato; cabina/telaio di protezione e cintura.",
+    "Particolare attenzione alla stabilità su pendenza e in spazi angusti; persone a distanza di sicurezza.",
+    "Delimitare il raggio d'azione; manovre assistite da moviere; a fine turno benna a terra e mezzo in sicurezza."
+   ],
+   "dpi": "Casco fuori cabina; calzature di sicurezza; alta visibilità; otoprotettori.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; abilitazione Accordo Stato-Regioni 22/02/2012; Titolo IV."
+  },
+  "Escavatore con martello demolitore": {
+   "operazione": "Demolizione meccanica con martello idraulico.",
+   "rischi": [
+    {
+     "t": "Investimento e schiacciamento",
+     "g": 2
+    },
+    {
+     "t": "Ribaltamento del mezzo",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di frammenti",
+     "g": 2
+    },
+    {
+     "t": "Rumore elevato",
+     "g": 2
+    },
+    {
+     "t": "Vibrazioni",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Operatore abilitato; cabina ROPS/FOPS con protezione anteriore; cintura.",
+    "Ampliare la delimitazione per la proiezione di materiale; nessun addetto nel raggio d'azione.",
+    "Abbattere le polveri con acqua; verificare stabilità del mezzo e del fronte di demolizione."
+   ],
+   "dpi": "Casco fuori cabina; occhiali/visiera; otoprotettori; calzature di sicurezza; alta visibilità.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; abilitazione Accordo Stato-Regioni 22/02/2012; Titolo VIII (rumore/vibrazioni)."
+  },
+  "Escavatore con pinza idraulica": {
+   "operazione": "Selezione, presa e carico di materiali e demolizioni con pinza.",
+   "rischi": [
+    {
+     "t": "Caduta del materiale afferrato",
+     "g": 2
+    },
+    {
+     "t": "Schiacciamento di persone",
+     "g": 2
+    },
+    {
+     "t": "Ribaltamento del mezzo",
+     "g": 2
+    },
+    {
+     "t": "Rumore e polveri",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Operatore abilitato; verificare la presa stabile prima del sollevamento; movimenti lenti e controllati.",
+    "Nessuno sotto il carico o nel raggio d'azione; delimitare l'area; abbattere le polveri."
+   ],
+   "dpi": "Casco fuori cabina; calzature di sicurezza; alta visibilità; otoprotettori.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; abilitazione Accordo Stato-Regioni 22/02/2012; Titolo IV."
+  },
+  "Pala meccanica/minipala": {
+   "operazione": "Carico, trasporto e spianamento di materiali.",
+   "rischi": [
+    {
+     "t": "Investimento e schiacciamento",
+     "g": 2
+    },
+    {
+     "t": "Ribaltamento",
+     "g": 2
+    },
+    {
+     "t": "Caduta di materiale dalla benna",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Operatore abilitato; cabina ROPS/FOPS e cintura.",
+    "Delimitare l'area di manovra; avvisatore acustico e moviere in retromarcia; non trasportare persone.",
+    "Velocità ridotta; benna abbassata negli spostamenti e a fine turno."
+   ],
+   "dpi": "Casco fuori cabina; calzature di sicurezza; alta visibilità; otoprotettori.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; abilitazione Accordo Stato-Regioni 22/02/2012; Titolo IV."
+  },
+  "Autogrù": {
+   "operazione": "Sollevamento e movimentazione di carichi.",
+   "rischi": [
+    {
+     "t": "Ribaltamento per instabilità o sovraccarico",
+     "g": 2
+    },
+    {
+     "t": "Caduta del carico",
+     "g": 2
+    },
+    {
+     "t": "Investimento nel raggio di rotazione",
+     "g": 2
+    },
+    {
+     "t": "Contatto con linee elettriche aeree",
+     "g": 2
+    }
+   ],
+   "durante": [
+    "Operatore abilitato; posizionamento su terreno portante con stabilizzatori estesi e piastre ripartitrici.",
+    "Rispettare la tabella di portata; accessori di sollevamento certificati e verificati; vietato il tiro obliquo.",
+    "Vietato sostare sotto il carico; manovre guidate da preposto/imbracatore; distanze di sicurezza dalle linee elettriche.",
+    "Verifiche periodiche dell'apparecchio (All. VII)."
+   ],
+   "dpi": "Casco; calzature di sicurezza; guanti; indumenti ad alta visibilità.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (art. 71 c.11, All. VI e VII); abilitazione Accordo Stato-Regioni 22/02/2012."
+  },
+  "Gru a torre": {
+   "operazione": "Sollevamento e distribuzione dei carichi in cantiere.",
+   "rischi": [
+    {
+     "t": "Caduta del carico",
+     "g": 2
+    },
+    {
+     "t": "Ribaltamento o cedimento",
+     "g": 2
+    },
+    {
+     "t": "Interferenza con altre gru od ostacoli",
+     "g": 2
+    },
+    {
+     "t": "Caduta dall'alto durante la manutenzione",
+     "g": 2
+    }
+   ],
+   "durante": [
+    "Installazione e fondazione secondo progetto; gruista abilitato; limitatori di carico e di momento efficienti.",
+    "Accessori certificati; vietato il tiro obliquo e il trasporto di persone; coordinamento delle interferenze tra gru.",
+    "Messa fuori servizio (banderuolamento) con vento oltre soglia; verifiche periodiche (All. VII)."
+   ],
+   "dpi": "Casco; calzature di sicurezza; guanti; alta visibilità; imbracatura per gli accessi in quota.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (art. 71 c.11, All. VI e VII); abilitazione Accordo Stato-Regioni 22/02/2012."
+  },
+  "Montacarichi da cantiere": {
+   "operazione": "Sollevamento di soli materiali tra i piani.",
+   "rischi": [
+    {
+     "t": "Caduta di materiali dall'alto",
+     "g": 2
+    },
+    {
+     "t": "Caduta dall'alto dalle aperture di piano",
+     "g": 2
+    },
+    {
+     "t": "Schiacciamento e cesoiamento",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Installazione secondo le istruzioni; protezioni e cancelli ai piani interbloccati.",
+    "Divieto assoluto di trasporto di persone; non superare la portata; carichi stabili.",
+    "Verificare funi/catene e i dispositivi di sicurezza prima dell'uso."
+   ],
+   "dpi": "Casco; calzature di sicurezza; guanti.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, All. V/VI); Titolo IV (art. 114)."
+  },
+  "Argano di sollevamento elettrico": {
+   "operazione": "Sollevamento di materiali (a cavalletto o a bandiera).",
+   "rischi": [
+    {
+     "t": "Caduta del carico",
+     "g": 2
+    },
+    {
+     "t": "Caduta dall'alto dell'operatore al punto di tiro",
+     "g": 2
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Fissaggio stabile dell'argano e del supporto; rispettare la portata; gancio con dispositivo di sicurezza.",
+    "Operatore al punto di tiro protetto da parapetto o imbracato; vietato sostare sotto il carico.",
+    "Verificare fune e freno prima dell'uso."
+   ],
+   "dpi": "Casco; guanti; calzature di sicurezza; imbracatura ove necessario.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, All. VI); Titolo IV (art. 114, lavori in quota)."
+  },
+  "Argano a bandiera": {
+   "operazione": "Sollevamento di materiali con argano montato su supporto a bandiera (parete/ponteggio).",
+   "rischi": [
+    {
+     "t": "Caduta del carico",
+     "g": 2
+    },
+    {
+     "t": "Caduta dall'alto al punto di tiro",
+     "g": 2
+    },
+    {
+     "t": "Cedimento dell'ancoraggio",
+     "g": 2
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Verificare idoneità e fissaggio dell'ancoraggio a parete/ponteggio e il momento ammesso.",
+    "Rispettare la portata; gancio con dispositivo di sicurezza; operatore protetto/imbracato.",
+    "Vietato sostare sotto il carico; verificare fune e freno."
+   ],
+   "dpi": "Casco; guanti; calzature di sicurezza; imbracatura ove necessario.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (All. VI); Titolo IV (art. 114, lavori in quota)."
+  },
+  "Autobetoniera": {
+   "operazione": "Trasporto e scarico del calcestruzzo.",
+   "rischi": [
+    {
+     "t": "Investimento durante le manovre",
+     "g": 2
+    },
+    {
+     "t": "Trascinamento dagli organi rotanti (tamburo/canala)",
+     "g": 1
+    },
+    {
+     "t": "Schizzi di calcestruzzo",
+     "g": 1
+    },
+    {
+     "t": "Rischio chimico",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Manovre in cantiere assistite da moviere; freno e cunei alle ruote.",
+    "Non avvicinarsi agli organi in movimento; pulizia della canala a organi fermi.",
+    "Percorsi separati tra pedoni e mezzi."
+   ],
+   "dpi": "Indumenti ad alta visibilità; casco; calzature di sicurezza; guanti; occhiali.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; Titolo IV (investimento); Titolo IX, Capo I (chimico)."
+  },
+  "Autopompa per cls": {
+   "operazione": "Pompaggio del calcestruzzo in quota o a distanza.",
+   "rischi": [
+    {
+     "t": "Ribaltamento del mezzo",
+     "g": 2
+    },
+    {
+     "t": "Contatto del braccio con linee elettriche aeree",
+     "g": 2
+    },
+    {
+     "t": "Colpo di frusta o scoppio della tubazione in pressione",
+     "g": 2
+    },
+    {
+     "t": "Investimento",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Stabilizzatori estesi su terreno portante; distanza di sicurezza dalle linee elettriche.",
+    "Verificare tubazioni e raccordi; nessuno in prossimità della testa di getto.",
+    "Scaricare la pressione prima di interventi; manovre con operatore abilitato e moviere."
+   ],
+   "dpi": "Casco; occhiali; guanti; calzature di sicurezza; alta visibilità.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; abilitazione Accordo Stato-Regioni 22/02/2012; Titolo IV."
+  },
+  "Martello demolitore pneumatico": {
+   "operazione": "Demolizioni con martello ad aria compressa.",
+   "rischi": [
+    {
+     "t": "Vibrazioni mano-braccio",
+     "g": 2
+    },
+    {
+     "t": "Rumore elevato",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di frammenti",
+     "g": 1
+    },
+    {
+     "t": "Colpo di frusta del tubo dell'aria",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Assicurare i raccordi del tubo aria con fermi/cavetti; verificare l'utensile prima dell'uso.",
+    "Alternare le mansioni per ridurre l'esposizione a vibrazioni; abbattere le polveri; delimitare l'area."
+   ],
+   "dpi": "Otoprotettori; occhiali/visiera; guanti antivibrazioni; mascherina; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; Titolo VIII, Capi II-III (rumore/vibrazioni)."
+  },
+  "Scanalatrice per muri ed intonaci": {
+   "operazione": "Esecuzione di tracce per impianti.",
+   "rischi": [
+    {
+     "t": "Contatto con i dischi",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di polveri",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di frammenti",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 1
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Usare la macchina con carter e aspirazione delle polveri; verificare i dischi.",
+    "Impugnatura salda con due mani; segnalare l'area; verificare l'assenza di impianti sotto traccia."
+   ],
+   "dpi": "Mascherina FFP; occhiali; otoprotettori; guanti; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capi I e III; Titolo VIII; Titolo IX (polveri)."
+  },
+  "Tagliamuri (sega a disco)": {
+   "operazione": "Taglio di murature e materiali edili.",
+   "rischi": [
+    {
+     "t": "Contatto con il disco o rinculo",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di frammenti",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di polveri",
+     "g": 2
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Disco idoneo e integro; protezioni montate; taglio con abbattimento polveri (ad acqua) ove possibile.",
+    "Presa salda; area delimitata; non forzare il taglio."
+   ],
+   "dpi": "Occhiali/visiera; mascherina FFP; otoprotettori; guanti; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, All. V/VI); Titolo VIII; Titolo IX."
+  },
+  "Taglierina elettrica": {
+   "operazione": "Taglio di piastrelle e materiali.",
+   "rischi": [
+    {
+     "t": "Contatto con il disco",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di schegge",
+     "g": 1
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Protezioni e riparo lama montati; disco idoneo; taglio ad umido ove previsto.",
+    "Mani lontane dal disco; collegamento elettrico a norma."
+   ],
+   "dpi": "Occhiali; guanti; otoprotettori; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capi I e III."
+  },
+  "Battipiastrelle elettrico": {
+   "operazione": "Assestamento di pavimentazioni.",
+   "rischi": [
+    {
+     "t": "Vibrazioni mano-braccio",
+     "g": 1
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    },
+    {
+     "t": "Posture incongrue",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Verificare cavo e doppio isolamento; alternare le mansioni; impugnatura corretta."
+   ],
+   "dpi": "Guanti antivibrazioni; otoprotettori; ginocchiere; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capi I e III; Titolo VIII, Capo III."
+  },
+  "Compressore con motore endotermico": {
+   "operazione": "Produzione di aria compressa per gli utensili.",
+   "rischi": [
+    {
+     "t": "Scoppio del serbatoio in pressione",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di gas di scarico in luoghi chiusi",
+     "g": 2
+    },
+    {
+     "t": "Rumore",
+     "g": 2
+    },
+    {
+     "t": "Ustioni da parti calde",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Valvola di sicurezza e manometro efficienti; verifiche del serbatoio in pressione.",
+    "Uso solo in luoghi aerati (mai in ambienti chiusi); tubazioni e raccordi assicurati; scaricare la pressione a fine uso."
+   ],
+   "dpi": "Otoprotettori; guanti; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (attrezzature a pressione); Titolo VIII (rumore); Titolo IX (gas di scarico)."
+  },
+  "Centralina idraulica a motore": {
+   "operazione": "Alimentazione di utensili oleodinamici.",
+   "rischi": [
+    {
+     "t": "Iniezione di fluido in pressione",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di gas di scarico",
+     "g": 2
+    },
+    {
+     "t": "Ustioni e rumore",
+     "g": 1
+    },
+    {
+     "t": "Incendio (combustibile)",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Verificare tubi e raccordi; non cercare le perdite con le mani; uso in luoghi aerati.",
+    "Rifornimento a motore spento; tenere un estintore a disposizione."
+   ],
+   "dpi": "Guanti; occhiali; otoprotettori; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; Titolo IX; art. 46 (antincendio)."
+  },
+  "Cannello a gas": {
+   "operazione": "Riscaldo, posa di guaine bituminose, piccole fiamme.",
+   "rischi": [
+    {
+     "t": "Incendio o esplosione",
+     "g": 2
+    },
+    {
+     "t": "Ustioni",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di fumi",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Bombole in verticale e assicurate, lontane da fonti di calore; verificare tubi e raccordi (assenza perdite).",
+    "Estintore a portata; non lasciare la fiamma incustodita; sorveglianza dopo il lavoro contro gli inneschi residui."
+   ],
+   "dpi": "Guanti; occhiali; calzature di sicurezza; indumenti non infiammabili.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; art. 46 e D.M. 02/09/2021 (antincendio)."
+  },
+  "Cannello per saldatura ossiacetilenica": {
+   "operazione": "Saldatura e taglio a fiamma ossiacetilenica.",
+   "rischi": [
+    {
+     "t": "Esplosione o ritorno di fiamma",
+     "g": 2
+    },
+    {
+     "t": "Incendio",
+     "g": 2
+    },
+    {
+     "t": "Ustioni",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di fumi e gas",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Bombole assicurate in verticale e separate, con valvole antiritorno di fiamma; verificare tubi e raccordi.",
+    "Allontanare i materiali infiammabili; estintore presente; garantire ventilazione; sorveglianza post-lavoro."
+   ],
+   "dpi": "Occhiali/maschera per saldatura; guanti e grembiule in cuoio; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I; Titolo IX (fumi); art. 46 (antincendio)."
+  },
+  "Motosega a motore": {
+   "operazione": "Taglio di legname.",
+   "rischi": [
+    {
+     "t": "Contatto con la catena o rinculo",
+     "g": 2
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di trucioli",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di gas di scarico",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Freno catena e protezioni efficienti; catena affilata e correttamente tesa; impugnatura salda con due mani.",
+    "Avviamento a terra; rifornimento a motore spento e freddo; non tagliare sopra l'altezza delle spalle."
+   ],
+   "dpi": "Pantaloni/ghette antitaglio; casco con visiera e otoprotettori; guanti antivibrazioni; calzature antitaglio.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, All. V/VI); Titolo VIII, Capi II-III."
+  },
+  "Carriola": {
+   "operazione": "Trasporto manuale di materiali.",
+   "rischi": [
+    {
+     "t": "Movimentazione manuale dei carichi / sovraccarico",
+     "g": 1
+    },
+    {
+     "t": "Schiacciamento di mani e piedi",
+     "g": 1
+    },
+    {
+     "t": "Scivolamenti e ribaltamento del carico",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Non sovraccaricare; carico stabile e bilanciato; percorsi sgombri e in piano ove possibile.",
+    "Spingere mantenendo la schiena eretta."
+   ],
+   "dpi": "Guanti; calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo VI (M.M.C., artt. 167-171, All. XXXIII); Titolo III, Capo I."
+  },
+  "Andatoie e passerelle": {
+   "operazione": "Passaggi pedonali e di servizio in cantiere e su scavi.",
+   "rischi": [
+    {
+     "t": "Caduta dall'alto o entro lo scavo",
+     "g": 2
+    },
+    {
+     "t": "Cedimento strutturale",
+     "g": 2
+    },
+    {
+     "t": "Scivolamento e inciampo",
+     "g": 1
+    }
+   ],
+   "durante": [
+    "Larghezza adeguata (almeno 60 cm pedonale, 120 cm con materiali) e pendenza limitata; listelli antiscivolo.",
+    "Parapetti su entrambi i lati quando l'altezza lo richiede; appoggi stabili; verificare la portata."
+   ],
+   "dpi": "Calzature di sicurezza antiscivolo; casco; imbracatura ove necessario.",
+   "rif": "D.Lgs. 81/2008, Titolo IV, Capo II (artt. 113 e 130; parapetti); All. XV."
+  },
+  "Sega circolare": {
+   "operazione": "Taglio di legname e pannelli in cantiere. Deve essere dotata di cuffia di protezione registrabile e coltello divisore, e marcata CE.",
+   "rischi": [
+    {
+     "t": "Contatto con la lama, amputazioni",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di schegge e materiale",
+     "g": 2
+    },
+    {
+     "t": "Rinculo del pezzo (kickback)",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri di legno",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare l'integrità di cuffia di protezione registrabile, coltello divisore e dispositivo contro il rinculo.",
+    "Verificare che la lama sia affilata e idonea al materiale; controllare il collegamento elettrico e la messa a terra."
+   ],
+   "durante": [
+    "Usare lo spingitoio per i pezzi piccoli; tenere le mani lontane dalla lama.",
+    "Non rimuovere le protezioni; non indossare guanti o indumenti svolazzanti durante il taglio; mantenere l'area sgombra."
+   ],
+   "dopo": [
+    "Spegnere e scollegare; pulire a motore fermo senza rimuovere i carter con la macchina in moto; segnalare le anomalie."
+   ],
+   "dpi": "a) occhiali o visiera; b) otoprotettori; c) mascherina antipolvere; d) calzature di sicurezza. Guanti solo nella movimentazione, non durante il taglio.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, Allegati V e VI); Titolo VIII (rumore)."
+  },
+  "Trapano elettrico": {
+   "operazione": "Foratura di murature, calcestruzzo e materiali vari.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Proiezione di schegge",
+     "g": 1
+    },
+    {
+     "t": "Trascinamento/avvolgimento dalla punta in rotazione",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri",
+     "g": 1
+    },
+    {
+     "t": "Rumore e vibrazioni",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare cavo, spina e doppio isolamento; controllare che la punta sia idonea e ben serrata nel mandrino.",
+    "Montare l'impugnatura ausiliaria per le forature gravose."
+   ],
+   "durante": [
+    "Impugnatura salda con due mani ove previsto; non frenare la punta con le mani.",
+    "Non usare guanti che possano impigliarsi; segnalare l'area durante tracce e forometrie."
+   ],
+   "dopo": [
+    "Scollegare; riporre con la punta smontata o protetta."
+   ],
+   "dpi": "a) occhiali; b) otoprotettori; c) mascherina antipolvere; d) guanti antivibrazioni ove necessario; e) calzature di sicurezza.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71) e Capo III (impianti elettrici, artt. 80-87); Titolo VIII, Capi II-III."
+  },
+  "Saldatrice elettrica": {
+   "operazione": "Saldatura di elementi metallici.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione",
+     "g": 2
+    },
+    {
+     "t": "Incendio o esplosione (scintille, materiali infiammabili)",
+     "g": 2
+    },
+    {
+     "t": "Inalazione di fumi di saldatura",
+     "g": 2
+    },
+    {
+     "t": "Radiazioni ottiche (UV/IR) e ustioni",
+     "g": 1
+    },
+    {
+     "t": "Proiezione di particelle incandescenti",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare cavi, pinze e morsetto di massa; allontanare i materiali infiammabili e predisporre un estintore.",
+    "Garantire aspirazione o ventilazione dei fumi."
+   ],
+   "durante": [
+    "Usare schermo o maschera con filtro idoneo; collegare la massa il più vicino possibile al punto di saldatura.",
+    "Vietato saldare su recipienti che abbiano contenuto sostanze infiammabili."
+   ],
+   "dopo": [
+    "Sorvegliare l'area per il rischio di inneschi residui; scollegare e lasciare raffreddare i pezzi."
+   ],
+   "dpi": "a) maschera/schermo per saldatura con filtro; b) guanti e grembiule in cuoio; c) calzature di sicurezza; d) otoprotettori; e) facciale per fumi (FFP) o aspirazione localizzata.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capi I e III; Titolo VIII, Capo V (radiazioni ottiche artificiali, artt. 213-218); Titolo IX (fumi); art. 46 (antincendio)."
+  },
+  "Impastatrice": {
+   "operazione": "Preparazione di malte e impasti.",
+   "rischi": [
+    {
+     "t": "Trascinamento/cesoiamento dagli organi in movimento",
+     "g": 2
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    },
+    {
+     "t": "Rischio chimico (cemento, additivi)",
+     "g": 1
+    },
+    {
+     "t": "Inalazione di polveri",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare le protezioni degli organi rotanti e il pulsante di arresto; controllare collegamento elettrico e messa a terra.",
+    "Assicurare la stabilità della macchina."
+   ],
+   "durante": [
+    "Non introdurre mani o attrezzi nella vasca con la macchina in moto; caricare i materiali in sicurezza.",
+    "Non rimuovere i carter di protezione."
+   ],
+   "dopo": [
+    "Arrestare e scollegare prima della pulizia; rimuovere i residui a macchina ferma."
+   ],
+   "dpi": "a) guanti; b) occhiali; c) mascherina antipolvere; d) calzature di sicurezza; e) otoprotettori ove necessario.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71, Allegati V e VI) e Capo III; Titolo IX, Capo I (chimico)."
+  },
+  "Intonacatrice": {
+   "operazione": "Applicazione meccanizzata di intonaco.",
+   "rischi": [
+    {
+     "t": "Proiezione di malta ad alta pressione (occhi, pelle)",
+     "g": 2
+    },
+    {
+     "t": "Rischio chimico (malte, additivi)",
+     "g": 1
+    },
+    {
+     "t": "Elettrocuzione",
+     "g": 1
+    },
+    {
+     "t": "Movimentazione di tubazioni e sacchi",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare l'integrità di tubazioni, raccordi e valvole; controllare il collegamento elettrico e la pressione di esercizio entro i limiti."
+   ],
+   "durante": [
+    "Non puntare la lancia verso le persone; scaricare la pressione prima di intervenire su tubi o ugelli intasati; tenere salda la lancia."
+   ],
+   "dopo": [
+    "Scaricare la pressione; pulire tubi e tramoggia a macchina ferma; scollegare."
+   ],
+   "dpi": "a) occhiali o visiera; b) guanti; c) calzature di sicurezza; d) mascherina; e) otoprotettori; f) indumenti protettivi.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I (artt. 70-71); Titolo IX, Capo I (chimico); Titolo VIII (rumore)."
+  },
+  "Vibratore elettrico per calcestruzzo": {
+   "operazione": "Costipamento del calcestruzzo nei getti.",
+   "rischi": [
+    {
+     "t": "Elettrocuzione (ambiente umido)",
+     "g": 2
+    },
+    {
+     "t": "Vibrazioni mano-braccio",
+     "g": 2
+    },
+    {
+     "t": "Movimentazione manuale e posture incongrue",
+     "g": 1
+    },
+    {
+     "t": "Rumore",
+     "g": 1
+    },
+    {
+     "t": "Scivolamenti su superfici bagnate",
+     "g": 1
+    }
+   ],
+   "prima": [
+    "Verificare cavo, spina e doppio isolamento; impiegare un quadro con interruttore differenziale; controllare l'integrità di ago e lancia."
+   ],
+   "durante": [
+    "Non lasciare a lungo l'ago vibrante in funzione a vuoto; alternare le mansioni per ridurre l'esposizione a vibrazioni; tenere i cavi sollevati dall'acqua e dal calcestruzzo."
+   ],
+   "dopo": [
+    "Scollegare; pulire l'ago dai residui di calcestruzzo a macchina ferma."
+   ],
+   "dpi": "a) guanti antivibrazioni; b) stivali isolanti e antiscivolo; c) occhiali; d) otoprotettori.",
+   "rif": "D.Lgs. 81/2008, Titolo III, Capo I e Capo III (impianti elettrici, artt. 80-87); Titolo VIII, Capo III (vibrazioni, artt. 199-205)."
+  },
   "Autocarro (Ford Transit cassone aperto 3,5 t)": {
    "operazione": "Trasporto di materiali e attrezzature all'interno del perimetro del cantiere e per il carico/scarico e lo smaltimento dei materiali di risulta.",
    "rischi": [
@@ -1176,6 +2056,14 @@
    "data": "2026-10-04",
    "note": [
     "Ripristinati i riferimenti normativi (fonte D.Lgs. 81/2008) su tutte le schede lavorazioni, anche nel POS generato."
+   ]
+  },
+  {
+   "rev": 4,
+   "version": "1.3 (ottobre 2026 - schede attrezzature complete)",
+   "data": "2026-10-05",
+   "note": [
+    "Ripristinate tutte le 41 schede di sicurezza delle attrezzature (le rev 2 e 3 ne contenevano solo 11)."
    ]
   }
  ]
