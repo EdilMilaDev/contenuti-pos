@@ -1,7 +1,7 @@
 {
-  "rev": 6,
-  "version": "1.5 (ottobre 2026 - lotto 2: nuove fasi e attrezzature, fasi doppie unite)",
-  "generato": "2026-06-08",
+  "rev": 7,
+  "version": "1.7 (novembre 2026)",
+  "generato": "2026-11-01",
   "KB_FASI": {
     "Demolizioni e rimozioni": [
       "Demolizione e rimozione abbassamento soffitto esistente",
@@ -3317,7 +3317,7 @@
         "Smontare secondo la sequenza del manuale, con le protezioni contro la caduta attive; controllare i componenti per il reimpiego, scartare quelli danneggiati e riporli al riparo."
       ],
       "dpi": "a) casco; b) guanti; c) calzature di sicurezza; d) imbracatura anticaduta con cordino nelle operazioni vicino al bordo non ancora protetto.",
-      "rif": "D.Lgs. 81/2008: Titolo IV Capo II (art. 111 c. 6 rimozione temporanea delle protezioni, art. 122 opere provvisionali, art. 123 montaggio e smontaggio, art. 126 parapetti, art. 146 difesa delle aperture); All. XVIII punto 2.1.5 (caratteristiche del parapetto); norma UNI EN 13374:2025 con errata corrige 2025 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova)."
+      "rif": "D.Lgs. 81/2008: Titolo IV Capo II (art. 111 c. 6 rimozione temporanea delle protezioni, art. 122 opere provvisionali, art. 123 montaggio e smontaggio, art. 126 parapetti, art. 146 difesa delle aperture); All. XVIII punto 2.1.5 (caratteristiche del parapetto); norma UNI EN 13374:2025 con errata corrige 2025 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026), e Quaderni per immagini, «Parapetti» (2026)."
     },
     "Piattaforma di lavoro autosollevante su colonne (PLAC)": {
       "operazione": "Lavori in quota su facciate con piattaforma che sale lungo una o due colonne a cremagliera ancorate all'edificio, con persone, attrezzi e materiali entro la portata. Per le PLE e gli autocestelli vedere la scheda «Piattaforma di lavoro elevabile (PLE) e autocestello».",
@@ -4814,6 +4814,15 @@
         "Aggiornati alcuni riferimenti nelle schede di macchine e attrezzature già presenti (abilitazioni dell'Accordo Stato-Regioni 17/04/2025, verifiche periodiche).",
         "Aggiunti sinonimi di ricerca su alcune lavorazioni già presenti."
       ]
+    },
+    {
+      "rev": 7,
+      "version": "1.7 (novembre 2026)",
+      "data": "2026-11-01",
+      "note": [
+        "Aggiornato Parapetti provvisori - rif: L'INAIL ha pubblicato il nuovo Quaderno tecnico «Parapetti» (11/09/2026) e il Quaderno per immagini «Parapetti» (24/07/2026). Il secondo è pensato anche per informare i lavoratori stranieri senza barriere di lingua. Entrambi tengono conto della revisione UNI EN 13374:2025 (parapetti anticaduta provvisori - specifiche di prodotto, metodi di prova) e citano anche una norma sui parapetti anticaduta permanenti, indicata nella fonte come UNI 12996:2025 (requisiti di sicurezza, metodi di prova e condizioni di utilizzo). Il nuovo riferimento sostituisce il precedente quaderno «Parapetti provvisori» del 2018. (INAIL - Parapetti - Quaderno Tecnico (Quaderni tecnici per i cantieri temporanei o mobili))",
+        "Aggiornato Montaggio e smontaggio di parapetti provvisori e protezioni anticaduta - fonte: Il nuovo Quaderno tecnico INAIL «Parapetti» (2026) è il riferimento tecnico aggiornato per montare e smontare i parapetti provvisori. Nella fonte della fase indico l'edizione 2025 della UNI EN 13374 (parapetti anticaduta provvisori - specifiche di prodotto, metodi di prova), la revisione richiamata dall'INAIL, così la fase è allineata alla scheda «Parapetti provvisori». (INAIL - Parapetti - Quaderno Tecnico (Quaderni tecnici per i cantieri temporanei o mobili))"
+      ]
     }
   ],
   "validazione": {
@@ -5275,7 +5284,7 @@
         "Se un tratto di parapetto risulta danneggiato o allentato interdire la zona e avvisare subito il preposto."
       ],
       "dpi": "Casco con sottogola; imbracatura anticaduta con cordino e assorbitore di energia; calzature antinfortunistiche; guanti; indumenti ad alta visibilità.",
-      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota e rimozione temporanea delle protezioni (art. 111), sistemi di protezione contro le cadute dall'alto (art. 115), montaggio e smontaggio delle opere provvisionali (art. 123), parapetti (art. 126), difesa delle aperture (art. 146), lavori su coperture (art. 148); norme UNI EN 13374 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova), UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio), UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova) e UNI EN 1263-2 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 2: Requisiti di sicurezza per i limiti di posizionamento)."
+      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota e rimozione temporanea delle protezioni (art. 111), sistemi di protezione contro le cadute dall'alto (art. 115), montaggio e smontaggio delle opere provvisionali (art. 123), parapetti (art. 126), difesa delle aperture (art. 146), lavori su coperture (art. 148); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026); norme UNI EN 13374:2025 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova), UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio), UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova) e UNI EN 1263-2 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 2: Requisiti di sicurezza per i limiti di posizionamento)."
     },
     "Ripresa e pulitura degli intonaci esterni": {
       "rischi": [
@@ -10113,6 +10122,6 @@
   "firma": {
     "alg": "ES256",
     "kid": "kb-1",
-    "sig": "ko_bGOAEHQgcxCw420acObGCp_l_JsmkbhoR4FFu5UF9ccfm6vqffvzSP0kQ-dPOKezqJYBK-PvycNgSpeb_dA"
+    "sig": "MnkOlVR2QbU1ss8FM4CLc11QFnwi0Y9tPufX9SFMsp-Us2rKHoxWaKMBDRLiaTpJZqiyqqEhac9x31T1tXJfGQ"
   }
 }
