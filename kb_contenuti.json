@@ -1,6 +1,6 @@
 {
-  "rev": 7,
-  "version": "1.7 (novembre 2026)",
+  "rev": 8,
+  "version": "1.8 (novembre 2026 - DL 159/2025 e parapetti)",
   "generato": "2026-11-01",
   "KB_FASI": {
     "Demolizioni e rimozioni": [
@@ -671,7 +671,7 @@
       "misure": [
         "Eseguire i lavori da ponteggio conforme con parapetti regolamentari (h ≥ 1 m), tavola fermapiede e mantovana parasassi ove necessario; verificare il PiMUS per il ponteggio.",
         "Per i lavori sulla falda predisporre andatoie, tavole ripartitrici del carico o sistemi anticaduta; vietato camminare su lastre non portanti.",
-        "Utilizzare imbracatura di sicurezza con ancoraggio idoneo (es. linea vita) quando non sia possibile la protezione collettiva.",
+        "Quando non è possibile la protezione collettiva, usare un sistema di protezione individuale collegato a un ancoraggio sicuro (es. linea vita), scegliendo prima la trattenuta o il posizionamento sul lavoro e l'arresto caduta solo se questi non sono adatti (art. 115 cc. 2-4).",
         "Delimitare e segnalare l'area sottostante; elmetto obbligatorio; calare i materiali, non gettarli.",
         "Sospendere le lavorazioni in quota in caso di vento forte, pioggia, neve o ghiaccio.",
         "Utilizzare otoprotettori e guanti antivibrazioni durante l'uso di utensili."
@@ -1985,7 +1985,7 @@
         }
       ],
       "org": [
-        "Deve sporgere almeno 1 m oltre il piano di accesso e distare dalla verticale di 1/4 della propria lunghezza."
+        "Deve sporgere a sufficienza oltre il piano di accesso (indicativamente 1 m), salvo altri dispositivi che garantiscano una presa sicura (art. 113 c. 6 lett. d); inclinazione secondo le istruzioni del fabbricante."
       ],
       "prima": [
         "Installare in sito sgombro da materiali e lontano dai passaggi."
@@ -1995,7 +1995,7 @@
         "Utilizzo da una sola persona per volta; salita e discesa con il viso verso la scala."
       ],
       "dpi": "a) casco; b) calzature di sicurezza; c) guanti.",
-      "rif": "T.U.S.L., Art. 113."
+      "rif": "D.Lgs. 81/2008, artt. 111, c. 3, e 113, cc. 3-7 e 10; All. XX, ove applicabile."
     },
     "Smerigliatrice angolare (flessibile)": {
       "operazione": "Utensile portatile con disco rotante per il taglio e la molatura di materiali.",
@@ -2407,7 +2407,7 @@
       "dopo": [
         "Smontare in sequenza inversa al montaggio; riporre la rete asciutta, al riparo da sole e prodotti chimici, e registrare i controlli eseguiti."
       ],
-      "dpi": "a) casco con sottogola; b) imbracatura anticaduta con cordino e assorbitore di energia durante montaggio e smontaggio; c) guanti; d) calzature di sicurezza.",
+      "dpi": "a) casco con sottogola; b) durante montaggio e smontaggio, imbracatura e sistema completo di trattenuta; se non idoneo, sistema completo di arresto caduta, con componenti compatibili e ancoraggio sicuro, secondo la valutazione dei rischi; c) guanti; d) calzature di sicurezza.",
       "rif": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (art. 111 c. 1 lett. a, art. 115 c. 1 lett. b); norme UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova) e UNI EN 1263-2 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 2: Requisiti di sicurezza per i limiti di posizionamento)."
     },
     "Carrello elevatore (muletto)": {
@@ -2521,10 +2521,10 @@
         "Evitare di lavorare lontano dalla linea in direzione obliqua rispetto al bordo, per limitare l'effetto pendolo."
       ],
       "dopo": [
-        "Ispezionare i DPI e riporli asciutti, lontano da fonti di calore; togliere dall'uso ogni componente che abbia arrestato una caduta fino al controllo di persona competente."
+        "Dopo l'uso, ispezionare i DPI secondo le istruzioni del fabbricante e conservarli asciutti, lontano da fonti di calore. Dopo l'arresto di una caduta, sospendere subito l'uso del sistema e mettere fuori servizio tutti i componenti sollecitati, inclusi la linea vita e gli ancoraggi coinvolti. Rimetterli in servizio solo dopo la verifica prevista dalle istruzioni del fabbricante e se questa ne consente il riutilizzo; altrimenti sostituirli. Il datore di lavoro assicura la manutenzione, le riparazioni e le sostituzioni necessarie dei DPI secondo le indicazioni del fabbricante (art. 77, comma 4, lett. a)."
       ],
       "dpi": "a) imbracatura anticaduta; b) cordino con assorbitore di energia o dispositivo anticaduta retrattile, scelto secondo il fabbricante; c) casco con sottogola; d) calzature antiscivolo.",
-      "rif": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (art. 111 c. 1 lett. a, art. 115 cc. 1-4); Titolo III Capo II DPI (art. 77 c. 5 lett. a, addestramento per i DPI di terza categoria); norme UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio) e UNI 11578 (Dispositivi di ancoraggio destinati all'installazione permanente - Requisiti e metodi di prova)."
+      "rif": "D.Lgs. 81/2008: Titolo IV Capo II lavori in quota (art. 111 c. 1 lett. a, art. 115 cc. 1-4); Titolo III Capo II DPI (art. 77 c. 4 lett. a, manutenzione secondo il fabbricante, e c. 5 lett. a, addestramento per i DPI di terza categoria); norme UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio) e UNI 11578 (Dispositivi di ancoraggio destinati all'installazione permanente - Requisiti e metodi di prova)."
     },
     "Faro e lampade portatili di cantiere": {
       "operazione": "Illuminazione artificiale delle zone di lavoro e di passaggio con fari su cavalletto o torre e lampade portatili.",
@@ -3300,13 +3300,13 @@
         }
       ],
       "org": [
-        "Scegliere la classe (A, B o C) secondo la UNI EN 13374:2025 in base alla pendenza della superficie e all'altezza di caduta, con i limiti indicati dalla norma e dal manuale del fabbricante; oltre quei limiti servono altre protezioni. Altezza del fermapiede e degli elementi secondo il sistema scelto e il manuale.",
+        "Scegliere la classe (A, B o C) secondo la UNI EN 13374:2025 in base alla pendenza della superficie e all'altezza di caduta, con i limiti indicati dalla norma e dal manuale del fabbricante; oltre quei limiti servono altre protezioni. Tavola fermapiede conforme al sistema adottato e alle istruzioni del fabbricante. Per i parapetti di cui all'art. 126 del d.lgs. 81/2008, altezza non inferiore a 20 cm (Allegato XVIII, punto 2.1.5.1).",
         "Verificare l'idoneità della struttura su cui si fissa il parapetto (calcestruzzo, muratura, acciaio, legno) e del sistema di ancoraggio secondo il manuale del fabbricante; per il parapetto costruito in cantiere dimostrare dimensioni e resistenza adeguate all'uso specifico.",
         "Montaggio e smontaggio sotto la sorveglianza del preposto (art. 123), da lavoratori incaricati e addestrati, protetti contro la caduta."
       ],
       "prima": [
         "Controllare la marcatura dei componenti (norma, classe, fabbricante, data o numero di serie) e la loro integrità: niente corrosione, deformazioni o saldature danneggiate; morsetti, perni e dispositivi di blocco efficienti.",
-        "Verificare corrente superiore ad almeno 1 m dal piano di calpestio, corrente intermedio e tavola fermapiede continua, senza varchi verso il vuoto; agli angoli e alle interruzioni seguire gli schemi del manuale."
+        "Verificare che il parapetto sia integro e montato nella configurazione prevista, con corrente superiore, protezione intermedia e fermapiede conformi al sistema adottato, senza aperture non protette; controllare angoli e interruzioni secondo le istruzioni del fabbricante. Per i parapetti di cui all'art. 126, verificare inoltre corrente superiore ad almeno 1 m dal piano di calpestio, tavola fermapiede alta almeno 20 cm e luce verticale tra gli elementi non superiore a 60 cm (Allegato XVIII, punti 2.1.5.1-2.1.5.2)."
       ],
       "durante": [
         "Non sedersi, non appoggiare scale o carichi e non agganciare imbracature ai parapetti se il fabbricante non lo prevede; non usarli per sollevare o calare materiali.",
@@ -3317,7 +3317,7 @@
         "Smontare secondo la sequenza del manuale, con le protezioni contro la caduta attive; controllare i componenti per il reimpiego, scartare quelli danneggiati e riporli al riparo."
       ],
       "dpi": "a) casco; b) guanti; c) calzature di sicurezza; d) imbracatura anticaduta con cordino nelle operazioni vicino al bordo non ancora protetto.",
-      "rif": "D.Lgs. 81/2008: Titolo IV Capo II (art. 111 c. 6 rimozione temporanea delle protezioni, art. 122 opere provvisionali, art. 123 montaggio e smontaggio, art. 126 parapetti, art. 146 difesa delle aperture); All. XVIII punto 2.1.5 (caratteristiche del parapetto); norma UNI EN 13374:2025 con errata corrige 2025 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026), e Quaderni per immagini, «Parapetti» (2026)."
+      "rif": "D.Lgs. 81/2008: Titolo IV Capo II (art. 111 c. 6 rimozione temporanea delle protezioni, art. 122 opere provvisionali, art. 123 montaggio e smontaggio, art. 126 parapetti, art. 146 difesa delle aperture); All. XVIII punto 2.1.5 (caratteristiche del parapetto); norma UNI EN 13374:2025 con errata corrige 2025 (Parapetti anticaduta provvisori - Specifica di prodotto - Metodi di prova); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026), e Quaderni per immagini, «Parapetti» (2026)."
     },
     "Piattaforma di lavoro autosollevante su colonne (PLAC)": {
       "operazione": "Lavori in quota su facciate con piattaforma che sale lungo una o due colonne a cremagliera ancorate all'edificio, con persone, attrezzi e materiali entro la portata. Per le PLE e gli autocestelli vedere la scheda «Piattaforma di lavoro elevabile (PLE) e autocestello».",
@@ -4803,7 +4803,7 @@
     {
       "rev": 6,
       "version": "1.5 (ottobre 2026 - lotto 2: nuove fasi e attrezzature, fasi doppie unite)",
-      "data": "2026-10-14",
+      "data": "2026-10-25",
       "note": [
         "Aggiunte 42 fasi di lavoro, ognuna con la sua scheda di sicurezza, tra cui scavo in minitrincea per la fibra ottica, perforazione orizzontale teleguidata (TOC) e fresatura della pavimentazione stradale, e le lavorazioni da falegname (arredi su misura, scale in legno, rivestimenti e perlinati, pergolati e tettoie).",
         "Aggiunte 33 attrezzature con scheda di sicurezza, tra cui autocarro con gru, gru per autocarro con piattaforma portapersone, sollevatore telescopico, terna e le macchine dei cantieri stradali (vibrofinitrice, macchina per minitrincea, perforatrice TOC, spruzzatrice di emulsione bituminosa, spazzatrice, semaforo mobile) e gli utensili da falegname (chiodatrice e graffatrice, pialla e rifilatrice, levigatrice orbitale, seghetto alternativo).",
@@ -4820,8 +4820,21 @@
       "version": "1.7 (novembre 2026)",
       "data": "2026-11-01",
       "note": [
-        "Aggiornato Parapetti provvisori - rif: L'INAIL ha pubblicato il nuovo Quaderno tecnico «Parapetti» (11/09/2026) e il Quaderno per immagini «Parapetti» (24/07/2026). Il secondo è pensato anche per informare i lavoratori stranieri senza barriere di lingua. Entrambi tengono conto della revisione UNI EN 13374:2025 (parapetti anticaduta provvisori - specifiche di prodotto, metodi di prova) e citano anche una norma sui parapetti anticaduta permanenti, indicata nella fonte come UNI 12996:2025 (requisiti di sicurezza, metodi di prova e condizioni di utilizzo). Il nuovo riferimento sostituisce il precedente quaderno «Parapetti provvisori» del 2018. (INAIL - Parapetti - Quaderno Tecnico (Quaderni tecnici per i cantieri temporanei o mobili))",
-        "Aggiornato Montaggio e smontaggio di parapetti provvisori e protezioni anticaduta - fonte: Il nuovo Quaderno tecnico INAIL «Parapetti» (2026) è il riferimento tecnico aggiornato per montare e smontare i parapetti provvisori. Nella fonte della fase indico l'edizione 2025 della UNI EN 13374 (parapetti anticaduta provvisori - specifiche di prodotto, metodi di prova), la revisione richiamata dall'INAIL, così la fase è allineata alla scheda «Parapetti provvisori». (INAIL - Parapetti - Quaderno Tecnico (Quaderni tecnici per i cantieri temporanei o mobili))"
+        "Aggiornati i riferimenti della scheda «Parapetti provvisori»: aggiunti il Quaderno tecnico INAIL «Parapetti» (settembre 2026) e il Quaderno per immagini INAIL «Parapetti» (luglio 2026), pensato anche per i lavoratori stranieri. Entrambi tengono conto della UNI EN 13374:2025 (parapetti anticaduta provvisori) e della nuova UNI 11996:2025 (parapetti anticaduta permanenti).",
+        "Aggiornata la fonte della fase «Montaggio e smontaggio di parapetti provvisori e protezioni anticaduta»: aggiunto il Quaderno tecnico INAIL «Parapetti» (2026) e indicata l'edizione 2025 della UNI EN 13374, come nella scheda «Parapetti provvisori»."
+      ]
+    },
+    {
+      "rev": 8,
+      "version": "1.8 (novembre 2026 - DL 159/2025 e parapetti)",
+      "data": "2026-11-03",
+      "note": [
+        "Aggiornate le schede dei lavori in quota al nuovo art. 115 del D.Lgs. 81/2008 (DL 159/2025, convertito dalla L. 198/2025): dove servono i dispositivi di protezione individuale, prima un sistema completo di trattenuta, l'arresto caduta solo se la trattenuta non è idonea.",
+        "Citata la manutenzione dei DPI secondo le indicazioni del fabbricante (nuovo art. 77 c. 4 lett. a) nelle schede della linea vita (con il fuori servizio dei componenti dopo l'arresto di una caduta) e dei lavori con funi, e per gli indumenti individuati come DPI nella rimozione di impermeabilizzazioni.",
+        "Nuova misura sulle scale verticali permanenti oltre 5 m (nuovo art. 113 c. 2) nella manutenzione della copertura.",
+        "Parapetti provvisori: titolo aggiornato della UNI EN 13374:2025, fermapiede conforme al sistema adottato (almeno 20 cm per i parapetti dell'art. 126) e sospensione del montaggio con vento, ghiaccio o fondo scivoloso.",
+        "Corretta la scheda della scala semplice: sporgenza 'a sufficienza (indicativamente 1 m)' come dice la norma, con i riferimenti precisi.",
+        "Le modifiche sono state riviste e validate da un RSPP."
       ]
     }
   ],
@@ -5189,7 +5202,7 @@
         "Autogru con verifiche periodiche in corso di validità (art. 71 c. 11, All. VII); gruista abilitato secondo l'Accordo Stato-Regioni 17/04/2025; stabilizzatori su piastre di ripartizione e terreno verificato.",
         "Accessori di sollevamento scelti in base al carico, agli inserti e all'angolo di tiro; controllare inserti e golfari prima di ogni tiro (All. VI punto 3).",
         "Delimitare la zona di manovra, vietato sostare sotto i carichi sospesi; guidare gli elementi con funi o aste; segnalatore quando il gruista non vede il carico.",
-        "Aggancio e sgancio in quota da PLE con operatore abilitato o con protezioni collettive; se non possibili, imbracatura collegata a un ancoraggio sicuro (art. 115).",
+        "Aggancio e sgancio in quota da PLE con operatore abilitato o con protezioni collettive; se non possibili, sistema di protezione individuale collegato a un ancoraggio sicuro, preferendo la trattenuta o il posizionamento all'arresto caduta (art. 115 cc. 2-4).",
         "Sganciare il carico solo dopo aver stabilizzato l'elemento con puntelli, controventi o collegamenti definitivi.",
         "Sospendere il sollevamento con vento oltre i limiti indicati dal fabbricante della gru; rispettare le distanze dalle linee elettriche (art. 117)."
       ],
@@ -5272,19 +5285,20 @@
       ],
       "misure": [
         "Scegliere parapetti provvisori conformi alla UNI EN 13374 di classe adeguata alla pendenza e all'altezza di caduta; montarli secondo il manuale del fabbricante su supporti di resistenza verificata.",
-        "Montare dall'area già protetta, da PLE o da ponteggio; dove non è possibile usare imbracatura collegata a un dispositivo di ancoraggio conforme alla UNI EN 795 o a un punto di ancoraggio sicuro (art. 115).",
+        "Montare dall'area già protetta, da PLE o da ponteggio; dove non è possibile, usare un sistema di protezione individuale collegato a un dispositivo di ancoraggio conforme alla UNI EN 795 o a un punto di ancoraggio sicuro, scegliendo prima un sistema che impedisca la caduta (trattenuta o posizionamento sul lavoro) e l'arresto caduta solo se questi non sono adatti (art. 115 cc. 2-4).",
         "Parapetto con tavola fermapiede su tutti i lati verso il vuoto di impalcati, passerelle e andatoie oltre 2 m (art. 126) e sulle aperture di solai e muri (art. 146).",
         "Reti di sicurezza conformi alla UNI EN 1263-1, posizionate secondo la UNI EN 1263-2 e le istruzioni del fabbricante.",
         "Montaggio e smontaggio sotto la sorveglianza del preposto (art. 123); controllare il serraggio a fine montaggio, periodicamente e dopo vento forte.",
         "Rimuovere temporaneamente un tratto di protezione solo con misure equivalenti già attive e ripristinarlo appena finito il lavoro (art. 111).",
-        "Prima di salire sulla copertura accertarne la resistenza (art. 148); delimitare l'area sottostante e calare i componenti, non gettarli."
+        "Prima di salire sulla copertura accertarne la resistenza (art. 148); delimitare l'area sottostante e calare i componenti, non gettarli.",
+        "Sospendere montaggio e smontaggio quando vento, ghiaccio o fondo scivoloso compromettono la sicurezza (art. 111, c. 7)."
       ],
       "emergenza": [
         "Definire prima dei lavori la procedura di recupero del lavoratore sospeso nell'imbracatura, con l'attrezzatura pronta in cantiere.",
         "Se un tratto di parapetto risulta danneggiato o allentato interdire la zona e avvisare subito il preposto."
       ],
-      "dpi": "Casco con sottogola; imbracatura anticaduta con cordino e assorbitore di energia; calzature antinfortunistiche; guanti; indumenti ad alta visibilità.",
-      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota e rimozione temporanea delle protezioni (art. 111), sistemi di protezione contro le cadute dall'alto (art. 115), montaggio e smontaggio delle opere provvisionali (art. 123), parapetti (art. 126), difesa delle aperture (art. 146), lavori su coperture (art. 148); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026); norme UNI EN 13374:2025 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova), UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio), UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova) e UNI EN 1263-2 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 2: Requisiti di sicurezza per i limiti di posizionamento)."
+      "dpi": "Casco con sottogola; imbracatura con sistema completo di trattenuta; se non idoneo, sistema completo di arresto caduta con assorbitore, componenti compatibili e ancoraggio sicuro, secondo la valutazione dei rischi; calzature antinfortunistiche; guanti; indumenti ad alta visibilità.",
+      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota e rimozione temporanea delle protezioni (art. 111), sistemi di protezione contro le cadute dall'alto (art. 115), montaggio e smontaggio delle opere provvisionali (art. 123), parapetti (art. 126), difesa delle aperture (art. 146), lavori su coperture (art. 148); INAIL, Quaderni tecnici per i cantieri temporanei o mobili, «Parapetti» (2026); norme UNI EN 13374:2025 con errata corrige EC 1-2025 (Parapetti anticaduta provvisori - Specifica di prodotto - Metodi di prova), UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio), UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova) e UNI EN 1263-2 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 2: Requisiti di sicurezza per i limiti di posizionamento)."
     },
     "Ripresa e pulitura degli intonaci esterni": {
       "rischi": [
@@ -5370,7 +5384,7 @@
         "Sollevare ai piani con apparecchi idonei e accessori adatti al carico (forche con contenimento, ceste); nessuno sotto il carico sospeso (All. VI punti 3.1.5 e 3.1.6).",
         "Tagliare preferibilmente in laboratorio oppure a umido o con utensili dotati di aspirazione, in una zona dedicata lontana dagli altri lavoratori (artt. 235 e 237).",
         "Nella spaccatura e scalpellatura della pietra proteggere dalle schegge sia gli addetti sia chi sosta o transita vicino, con schermi o delimitazione dell'area (art. 114 c. 3).",
-        "Posare i davanzali dall'interno con il vano protetto da parapetto o sbarramento (art. 146 c. 3) oppure dal ponteggio esterno; dove manca la protezione collettiva usare l'imbracatura collegata a un ancoraggio sicuro (art. 115).",
+        "Posare i davanzali dall'interno con il vano protetto da parapetto o sbarramento (art. 146 c. 3) oppure dal ponteggio esterno; dove manca la protezione collettiva usare un sistema di protezione individuale collegato a un ancoraggio sicuro, preferendo la trattenuta o il posizionamento all'arresto caduta (art. 115 cc. 2-4).",
         "Appoggiare le lastre su spessori o listelli per non schiacciare le dita e stoccarle in verticale su cavalletti con fermi.",
         "Usare malte e collanti secondo la scheda di sicurezza; otoprotettori durante i tagli secondo la valutazione del rumore (art. 193)."
       ],
@@ -5555,7 +5569,7 @@
       ],
       "misure": [
         "Accumuli e unità pesanti si sollevano con mezzi meccanici e accessori adatti al carico, nessuno sotto il carico sospeso (All. VI punti 3.1.5 e 3.1.6); autogru e gru su autocarro condotte da operatori abilitati (art. 73 c. 5); la movimentazione manuale solo per pesi e percorsi compatibili (artt. 168-169, All. XXXIII).",
-        "Unità esterne su coperture, balconi o facciate installate con parapetti, ponteggio o PLE; dove manca la protezione collettiva imbracatura collegata a un ancoraggio sicuro (art. 115); accertare prima la resistenza della copertura (art. 148); staffe e basamenti secondo il fabbricante.",
+        "Unità esterne su coperture, balconi o facciate installate con parapetti, ponteggio o PLE; dove manca la protezione collettiva sistema di protezione individuale collegato a un ancoraggio sicuro, preferendo la trattenuta o il posizionamento all'arresto caduta (art. 115 cc. 2-4); accertare prima la resistenza della copertura (art. 148); staffe e basamenti secondo il fabbricante.",
         "Lavori con l'impianto gas intercettato a monte; per apparecchi di portata termica nominale non maggiore di 35 kW prova di tenuta e messa in servizio secondo la serie UNI 7129, nelle parti applicabili. Per impianti a gas di portata termica superiore a 35 kW verificare l'applicazione della regola tecnica antincendio del DM 8 novembre 2019. Nessuna fiamma durante le verifiche; lavori eseguiti da impresa abilitata (DM 37/2008, art. 1 c. 2 lett. e).",
         "Prima della prima accensione verificare il sistema di scarico dei prodotti della combustione (UNI 7129-3) e la ventilazione del locale; eseguire l'accensione e l'analisi di combustione secondo le istruzioni del fabbricante.",
         "Interventi sul circuito frigorifero solo da personale e imprese abilitati o certificati secondo i requisiti applicabili (Regolamento (UE) 2024/573, art. 10; Regolamento di esecuzione (UE) 2024/2215; adempimenti nazionali ancora applicabili del DPR 146/2018). Con refrigeranti infiammabili valutare se una perdita possa formare un'atmosfera esplosiva e applicare, ove necessario, le misure del Titolo XI del D.Lgs. 81/2008; eliminare le fonti di innesco e assicurare la ventilazione prevista dal fabbricante. Vietato disperdere il refrigerante in atmosfera.",
@@ -5851,7 +5865,7 @@
         "Lavori eseguiti solo da impresa iscritta all'Albo nazionale gestori ambientali nella categoria 10 (art. 256 c. 1, art. 212 D.Lgs. 152/2006), nella sottocategoria adeguata al materiale (cemento-amianto compatto o friabile), con addetti formati con i corsi per la bonifica dell'amianto (art. 258 cc. 3 e 3-bis) e sottoposti a sorveglianza sanitaria (art. 259).",
         "Piano di lavoro (art. 256 cc. 2-4) inviato all'organo di vigilanza almeno 30 giorni prima dell'inizio, salvo i casi di urgenza; l'invio sostituisce la notifica dell'art. 250 (art. 256 c. 6). I lavori iniziano solo dopo il termine senza richieste o prescrizioni dell'organo di vigilanza.",
         "Area di lavoro delimitata e segnalata con cartelli, accesso ai soli addetti, divieto di fumare e di mangiare; unità di decontaminazione degli addetti all'uscita dalla zona di lavoro (artt. 251-252). Per i materiali friabili il cantiere è confinato e in depressione come previsto dal piano (art. 255 c. 1 lett. c).",
-        "In copertura: verifica della resistenza (art. 148), ponteggio perimetrale o parapetti sul bordo, reti di sicurezza o sottopalchi sotto le lastre, camminamenti in tavole da ponte o rete metallica antistrappo (D.M. 6/9/1994 punto 7b.2); dove non bastano, imbracatura collegata a linea vita o ancoraggi (art. 115). Vietato camminare sulle lastre.",
+        "In copertura: verifica della resistenza (art. 148), ponteggio perimetrale o parapetti sul bordo, reti di sicurezza o sottopalchi sotto le lastre, camminamenti in tavole da ponte o rete metallica antistrappo (D.M. 6/9/1994 punto 7b.2); dove non bastano, sistema individuale collegato a linea vita o ancoraggi sicuri, preferendo la trattenuta all'arresto caduta (art. 115 cc. 2-4). Vietato camminare sulle lastre.",
         "Lastre bagnate con incapsulante o acqua nebulizzata a bassa pressione su entrambe le facce prima di ogni manipolazione; vietati getti ad alta pressione. Smontaggio senza romperle, svitando o tagliando a mano ganci e viti; vietati trapani, seghetti, flessibili e mole ad alta velocità (D.M. 6/9/1994 punto 7b.3).",
         "Lastre calate a terra con mezzo di sollevamento idoneo, mai lanciate né frantumate; nessuno sotto i carichi sospesi e nella zona di calo.",
         "Rifiuti pallettizzati e chiusi in teli di plastica sigillati, frammenti raccolti subito in sacchi impermeabili sigillati, tutto etichettato (art. 251 c. 1 lett. g-h); gronde bonificate a umido raccogliendo la fanghiglia in sacchi; deposito temporaneo separato dagli altri detriti e lontano dal traffico dei mezzi.",
@@ -6056,7 +6070,7 @@
       "misure": [
         "Nelle opere a struttura in conglomerato cementizio senza ponteggio perimetrale montato da terra, prima di erigere le casseforme dei pilastri perimetrali predisporre al piano raggiunto un ponte di sicurezza a sbalzo largo almeno 1,20 m (art. 129 c. 1); con il ponteggio perimetrale il ponte a sbalzo non serve. In ogni caso le armature di sostegno del cassero per il getto della soletta o della trave perimetrale successive non sporgono più di 40 cm dal filo del fabbricato (art. 129 c. 2).",
         "Casseforme e armature provvisorie montate secondo le istruzioni del fornitore o il progetto, su appoggi di resistenza verificata, con carico al piede ripartito e dimensionate per il peso del getto, delle persone e dei sovraccarichi (artt. 142-144); per i casseri dei pilastri e delle pareti usare le piattaforme di getto con parapetto previste dal sistema.",
-        "Ai bordi dei solai, sulle aperture e sui vani scala parapetti con tavola fermapiede o tavolati fissati (art. 146); imbracatura anticaduta con ancoraggio idoneo solo dove la protezione collettiva non è realizzabile (art. 115).",
+        "Ai bordi dei solai, sulle aperture e sui vani scala parapetti con tavola fermapiede o tavolati fissati (art. 146); sistema di protezione individuale collegato a un ancoraggio sicuro solo dove la protezione collettiva non è realizzabile, preferendo la trattenuta o il posizionamento all'arresto caduta (art. 115 cc. 2-4).",
         "Sollevare casseri, gabbie e benna del calcestruzzo con accessori idonei e omologati per il carico; nessuno sotto il carico sospeso, guida con funi e capomanovra quando il gruista non vede il punto di posa; zona sottostante delimitata.",
         "Autobetoniera e autopompa su terreno portante, stabilizzatori su piastre di ripartizione e lontani dai cigli di scavo, manovre assistite da moviere; operatore della pompa abilitato (art. 73 c. 5, Accordo Stato-Regioni 17/04/2025, punto 8.3.8); rispettare le distanze dalle linee elettriche aeree (art. 117, All. IX).",
         "Durante il getto nessuno sotto il braccio della pompa; tubo terminale guidato da un addetto in posizione stabile, mai piegato, in comunicazione con l'operatore; getto distribuito senza accumuli e controllo continuo della tenuta dei casseri.",
@@ -6364,7 +6378,8 @@
         "Delimitare a terra la zona sotto il punto di lavoro e lungo la gronda; tenere tegole e materiali in contenitori stabili, calare i detriti con secchio o fune senza gettarli, assicurare gli attrezzi con cordino.",
         "Verificare linee elettriche aeree, antenne e impianti fotovoltaici e rispettare le distanze dell'All. IX (art. 117); i moduli fotovoltaici producono tensione con la luce anche a impianto sezionato: non calpestarli e non scollegarli.",
         "Non lavorare in copertura con pioggia, neve, ghiaccio o vento forte (art. 111 c. 7) e mai da soli; nella pulizia di canali con escrementi di volatili usare guanti impermeabili e facciale filtrante, e lavarsi prima di mangiare.",
-        "Il trasferimento dalla PLE alla copertura è ammesso soltanto se previsto dal fabbricante e da una procedura specifica che assicuri la continuità della protezione anticaduta; altrimenti predisporre un diverso accesso sicuro."
+        "Il trasferimento dalla PLE alla copertura è ammesso soltanto se previsto dal fabbricante e da una procedura specifica che assicuri la continuità della protezione anticaduta; altrimenti predisporre un diverso accesso sicuro.",
+        "Se l'accesso avviene da una scala verticale permanente fissata alla struttura, alta più di 5 m e inclinata oltre 75 gradi, verificare che abbia la gabbia o un sistema di protezione individuale scelto con la valutazione dei rischi (art. 113 c. 2, art. 115); per le scale installate entro il 31/10/2025 l'obbligo vale dal 1/2/2026."
       ],
       "emergenza": [
         "Definire prima di salire chi recupera un lavoratore rimasto sospeso nell'imbracatura e con quale mezzo (PLE, kit di recupero), in pochi minuti; chiamare subito il 112 indicando l'accesso alla copertura.",
@@ -6524,7 +6539,7 @@
         }
       ],
       "misure": [
-        "Prima della posa predisporre le protezioni collettive: parapetti provvisori lungo gronde e testate o ponteggio perimetrale con parapetto oltre la gronda, e reti di sicurezza sotto l'orditura dove si lavora sopra il vuoto (artt. 111, 115); dove mancano, imbracatura collegata a linea vita provvisoria o definitiva, rispettando le eventuali norme regionali sulle misure permanenti per l'accesso alle coperture.",
+        "Prima della posa predisporre le protezioni collettive: parapetti provvisori lungo gronde e testate o ponteggio perimetrale con parapetto oltre la gronda, e reti di sicurezza sotto l'orditura dove si lavora sopra il vuoto (artt. 111, 115); dove mancano, sistema di protezione individuale collegato a linea vita provvisoria o definitiva, preferendo la trattenuta che impedisce di raggiungere il bordo e l'arresto caduta solo se la trattenuta non è realizzabile (art. 115 cc. 2-4), rispettando le eventuali norme regionali sulle misure permanenti per l'accesso alle coperture.",
         "Camminare solo su passerelle o su pannelli e arcarecci di cui è stata verificata la portata per persone e materiali (progetto, istruzioni del fabbricante o tecnico incaricato): il fissaggio da solo non prova che siano calpestabili; proteggere subito lucernari e lastre trasparenti con reti o grate anticaduta; vietato appoggiarsi su pannelli non fissati o su lastre non portanti (art. 148).",
         "Se la posa sostituisce o ricopre una copertura esistente, prima dei lavori individuare i materiali con amianto (art. 248 c. 1): la rimozione delle lastre spetta a impresa iscritta all'Albo gestori ambientali con piano di lavoro (art. 256, fase \"Rimozione e smaltimento amianto ⚠\"), la sovracopertura di lastre in cemento-amianto segue la fase \"Incapsulamento e confinamento di coperture in cemento-amianto ⚠\"; mai camminare direttamente sulle lastre esistenti; se compaiono materiali sospetti non individuati prima, fermare subito i lavori (art. 254 c. 2).",
         "Sollevare i pacchi con autogru o gru su autocarro con verifiche periodiche in corso di validità (art. 71 c. 11, All. VII), condotta da operatore abilitato, con bilancino o forche con contenimento e accessori adatti alla lunghezza del pacco; guidare il carico con funi, nessuno sotto il carico sospeso (All. VI punto 3).",
@@ -6537,7 +6552,7 @@
         "Definire prima dei lavori il recupero del lavoratore trattenuto dalla rete o sospeso nell'imbracatura, con PLE o attrezzatura pronta in cantiere, e chiamare il 112.",
         "In caso di principio d'incendio dell'isolante usare l'estintore; se non si spegne subito scendere dalla copertura e chiamare il 112."
       ],
-      "dpi": "Casco con sottogola; guanti antitaglio; calzature antinfortunistiche con suola antiscivolo; imbracatura anticaduta con cordino e assorbitore di energia dove manca la protezione collettiva; occhiali o visiera nel taglio e nel fissaggio; otoprotettori secondo la valutazione del rumore.",
+      "dpi": "Casco con sottogola; guanti antitaglio; calzature antinfortunistiche con suola antiscivolo; imbracatura con sistema completo di trattenuta; se non idoneo, sistema completo di arresto caduta con assorbitore e ancoraggio sicuro, dove la protezione collettiva non è realizzabile; occhiali o visiera nel taglio e nel fissaggio; otoprotettori secondo la valutazione del rumore.",
       "fonte": "D.Lgs. 81/2008: Titolo IV Capo II lavori su coperture (art. 148), attrezzature per lavori in quota e condizioni meteorologiche (art. 111), sistemi di protezione contro le cadute dall'alto (art. 115); sollevamento dei carichi (Titolo III Capo I, artt. 70-71, All. VI punto 3), verifiche periodiche (art. 71 c. 11, All. VII) e abilitazione per gru mobili e gru per autocarro (art. 73 c. 5, Accordo Stato-Regioni 17/04/2025); prevenzione incendi (art. 46); movimentazione manuale dei carichi (Titolo VI, artt. 167-169, All. XXXIII); norme UNI EN 13374 (Sistemi temporanei di protezione dei bordi - Specifica di prodotto - Metodi di prova) e UNI EN 1263-1 (Attrezzature provvisionali di lavoro - Reti di sicurezza - Parte 1: Requisiti di sicurezza, metodi di prova); amianto (Titolo IX Capo III, artt. 248, 254 c. 2 e 256)."
     },
     "Lavori in quota con accesso e posizionamento mediante funi": {
@@ -6585,7 +6600,7 @@
         "Dopo il recupero affidare sempre l'infortunato ai soccorsi sanitari, anche se sembra stare bene, riferendo quanto tempo è rimasto sospeso."
       ],
       "dpi": "Imbracatura con cosciali e attacchi per il posizionamento e per l'arresto caduta; casco con sottogola per lavori in quota; dispositivi di regolazione della fune conformi alla UNI EN 12841; cordini, connettori e assorbitori di energia; guanti; calzature antinfortunistiche. Sono DPI di III categoria: addestramento obbligatorio all'uso (art. 77 c. 5).",
-      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota, uso delle funi e condizioni meteorologiche (art. 111 cc. 1, 4 e 7), sistemi di protezione contro le cadute dall'alto (art. 115 cc. 2-5), obblighi per i sistemi di accesso e posizionamento mediante funi (art. 116), lavori in prossimità di parti attive (art. 117, All. IX); corsi per lavoratori e preposti addetti ai sistemi di accesso e posizionamento mediante funi (All. XXI); DPI di III categoria e addestramento (Titolo III Capo II, art. 77 c. 5); Linea guida ISPESL (ora INAIL) per l'esecuzione di lavori temporanei in quota con l'impiego di sistemi di accesso e posizionamento mediante funi; norme UNI EN 12841:2024 (Dispositivi individuali per la protezione contro le cadute - Sistemi di accesso con fune - Dispositivi di regolazione della fune) e UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio)."
+      "fonte": "D.Lgs. 81/2008: Titolo IV Capo II attrezzature per lavori in quota, uso delle funi e condizioni meteorologiche (art. 111 cc. 1, 4 e 7), sistemi di protezione contro le cadute dall'alto (art. 115 cc. 2-5), obblighi per i sistemi di accesso e posizionamento mediante funi (art. 116), lavori in prossimità di parti attive (art. 117, All. IX); corsi per lavoratori e preposti addetti ai sistemi di accesso e posizionamento mediante funi (All. XXI); manutenzione dei DPI secondo il fabbricante, DPI di III categoria e addestramento (Titolo III Capo II, art. 77 c. 4 lett. a e c. 5); Linea guida ISPESL (ora INAIL) per l'esecuzione di lavori temporanei in quota con l'impiego di sistemi di accesso e posizionamento mediante funi; norme UNI EN 12841:2024 (Dispositivi individuali per la protezione contro le cadute - Sistemi di accesso con fune - Dispositivi di regolazione della fune) e UNI EN 795 (Dispositivi individuali per la protezione contro le cadute - Dispositivi di ancoraggio)."
     },
     "Sabbiatura e verniciatura di opere in ferro": {
       "rischi": [
@@ -6876,7 +6891,8 @@
         "Accumulare il materiale rimosso in piccole quantità distribuite, senza sovraccaricare il solaio, e calarlo con mezzi di sollevamento o canali con sbocco a non più di 2 m dal piano di raccolta, mai gettarlo dall'alto; zona sottostante sbarrata (artt. 153-154).",
         "Rotoli e sacchi movimentati con carichi ridotti o con mezzi di sollevamento (artt. 168-169, All. XXXIII); alternare le posture chinate con pause.",
         "Nei mesi caldi organizzare il lavoro nelle ore più fresche, con acqua potabile, pause all'ombra e sorveglianza reciproca tra gli addetti, secondo la valutazione del microclima (artt. 180-181) e il Protocollo quadro per le emergenze climatiche (firmato il 2 luglio 2025, adottato con D.M. Lavoro n. 95 del 9 luglio 2025).",
-        "Guaine rimosse gestite come rifiuto da costruzione e demolizione con il codice assegnato dal produttore del rifiuto (di norma 17 03 02, 17 03 01* se contengono catrame di carbone), in deposito separato dalle altre macerie (D.Lgs. 152/2006, Parte IV)."
+        "Guaine rimosse gestite come rifiuto da costruzione e demolizione con il codice assegnato dal produttore del rifiuto (di norma 17 03 02, 17 03 01* se contengono catrame di carbone), in deposito separato dalle altre macerie (D.Lgs. 152/2006, Parte IV).",
+        "Per gli indumenti individuati come DPI dalla valutazione dei rischi, manutenzione, riparazione e sostituzione secondo le indicazioni del fabbricante (art. 77, c. 4, lett. a)."
       ],
       "emergenza": [
         "In caso di caduta o sfondamento chiamare il 112 e non spostare l'infortunato; se è rimasto sospeso all'imbracatura recuperarlo il prima possibile secondo la procedura di recupero prevista.",
@@ -7414,7 +7430,7 @@
       "misure": [
         "Prima di forare pareti e solai individuare con il committente e sugli schemi disponibili il percorso di tubazioni gas, acqua e linee elettriche; non tagliare travi, travetti o armature senza l'indicazione del progettista o della direzione lavori.",
         "Negli edifici costruiti o ristrutturati prima della L. 257/1992 chiedere al committente se lungo i percorsi di canali e fori ci sono materiali con amianto (canne fumarie, pannelli, controsoffitti, guaine) e, se mancano informazioni, farli esaminare prima di forare (art. 248 c. 1). Se durante il lavoro compaiono materiali sospetti non identificati prima, fermarsi subito senza romperli, delimitare la zona e avvisare il preposto (art. 254 c. 2).",
-        "Lavori a soffitto da trabattello o ponte su cavalletti conformi; le scale solo per interventi brevi con assistente a terra. Fori in facciata da ponteggio, PLE o dall'interno; dove manca la protezione collettiva imbracatura collegata a un ancoraggio sicuro (art. 115).",
+        "Lavori a soffitto da trabattello o ponte su cavalletti conformi; le scale solo per interventi brevi con assistente a terra. Fori in facciata da ponteggio, PLE o dall'interno; dove manca la protezione collettiva sistema di protezione individuale collegato a un ancoraggio sicuro, preferendo la trattenuta o il posizionamento all'arresto caduta (art. 115 cc. 2-4).",
         "Nei sottotetti camminare solo su travi o tavolati portanti, posando tavole di ripartizione; illuminare il percorso e chiudere o proteggere le botole di accesso.",
         "Carotatrice fissata al supporto con la sua colonna o tasselli, alimentata da quadro di cantiere con interruttore differenziale; cavi e prese lontani dall'acqua di raffreddamento, che va raccolta con aspiratore idoneo ai liquidi.",
         "Durante le forature passanti delimitare la zona sottostante o esterna dove possono cadere carote e frammenti, con un addetto o una segnalazione che impedisca il passaggio.",
@@ -8107,7 +8123,7 @@
         "Intervento eseguito solo da impresa iscritta all'Albo nazionale gestori ambientali nella categoria 10 (art. 212 D.Lgs. 152/2006), con addetti che hanno frequentato i corsi per la bonifica dell'amianto (art. 258 c. 3) e sono sottoposti a sorveglianza sanitaria (art. 259).",
         "La scelta dell'incapsulamento o del confinamento risulta dalla valutazione del rischio, che dà priorità alla rimozione (art. 249 c. 1-bis) e considera lo stato di degrado delle lastre (D.M. 6/9/1994 punto 7a). Prima dell'inizio: notifica all'organo di vigilanza (art. 250), salvo che siano documentate tutte le condizioni dell'art. 249 c. 2: esposizioni sporadiche e di debole intensità, valutazione che dimostri chiaramente il mancato superamento del valore limite e incapsulamento/confinamento di materiali in buono stato. La deroga riguarda la notifica e non esonera dalle altre tutele (art. 249 c. 2 lett. c); se l'intervento comporta anche la rimozione di lastre, piano di lavoro inviato almeno 30 giorni prima (art. 256 cc. 2-5).",
         "Concentrazione di fibre nell'aria misurata nelle fasi indicate dalla valutazione, soprattutto con campionamento personale (art. 253 c. 1). Se il valore limite dell'art. 254 è superato, o si sospetta che materiali con amianto non identificati prima abbiano prodotto polvere, fermare subito i lavori e riprenderli nella zona solo con misure adeguate (art. 254 c. 2).",
-        "Prima di salire verificare la resistenza della copertura (art. 148): ponteggio perimetrale o parapetti sul bordo, reti di sicurezza o sottopalchi sotto le lastre, camminamenti in tavole da ponte o rete metallica antistrappo sulle lastre (D.M. 6/9/1994 punto 7b.2); dove le protezioni collettive non bastano, sistemi di trattenuta collegati ad ancoraggi idonei; se resta possibile la caduta libera, sistema di arresto caduta dimensionato con tirante d'aria verificato e piano di recupero. Il posizionamento da solo non sostituisce la protezione anticaduta (art. 115 cc. 2-3). Vietato camminare direttamente sulle lastre.",
+        "Prima di salire verificare la resistenza della copertura (art. 148): ponteggio perimetrale o parapetti sul bordo, reti di sicurezza o sottopalchi sotto le lastre, camminamenti in tavole da ponte o rete metallica antistrappo sulle lastre (D.M. 6/9/1994 punto 7b.2); dove le protezioni collettive non bastano, sistemi di trattenuta collegati ad ancoraggi idonei; se resta possibile la caduta libera, sistema di arresto caduta dimensionato con tirante d'aria verificato e piano di recupero. Il posizionamento sul lavoro non è di per sé un sistema di arresto caduta. Se la valutazione dei rischi evidenzia una possibile caduta, prevedere anche un sistema di arresto compatibile, secondo le istruzioni del fabbricante. Vietato camminare direttamente sulle lastre.",
         "Mai rimuovere, rompere o forare le lastre a secco. Pulizia preliminare solo con attrezzature che evitano il rilascio di fibre e consentono di recuperare e trattare le acque di lavaggio (D.M. 6/9/1994 punto 7a lett. b); niente getti d'acqua ad alta pressione (punto 7b.3); niente spazzole o raschietti a secco.",
         "Incapsulante applicato a pennello, a rullo o con pompe a bassa pressione, con prodotti conformi al D.M. 20/8/1999 e secondo la scheda tecnica e la scheda di dati di sicurezza (art. 223); usare prodotti che non rendono scivolosa la superficie se è previsto il pedonamento.",
         "Sovracopertura solo se la struttura portante è idonea al carico aggiuntivo, come da calcolo fornito dal committente o dal costruttore; prima della posa trattare le lastre con incapsulante, bonificare a umido le gronde e fissare la nuova orditura riusando i fori esistenti; nuove forature solo con utensili dotati di aspirazione con filtri assoluti (D.M. 6/9/1994 punto 7b.3).",
@@ -9761,11 +9777,11 @@
       "taglio stradale per cavi"
     ],
     "Perforazione orizzontale teleguidata (TOC / no-dig)": [
-      "perforazione TOC",
+      "perforazione toc",
       "trivellazione orizzontale controllata",
       "perforazione teleguidata",
       "perforazione orizzontale guidata",
-      "perforazione HDD",
+      "perforazione hdd",
       "posa tubi senza scavo",
       "attraversamento stradale senza scavo",
       "no-dig"
@@ -10122,6 +10138,6 @@
   "firma": {
     "alg": "ES256",
     "kid": "kb-1",
-    "sig": "MnkOlVR2QbU1ss8FM4CLc11QFnwi0Y9tPufX9SFMsp-Us2rKHoxWaKMBDRLiaTpJZqiyqqEhac9x31T1tXJfGQ"
+    "sig": "as7_dwPddcrJXSoUWQGG-nvOENUjTrpspACiVUkZCExpwn6w6MuQwfxyBJcbBorgMrnN-OX-84rVXQa2ZO209A"
   }
 }
